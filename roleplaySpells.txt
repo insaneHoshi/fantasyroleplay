@@ -1,0 +1,3186 @@
+Lesser Arcane Lore:
+
+Magelight:
+Cost per Rank: 2
+Casting Number: 5
+Minimum MP req: 1
+WP Cost: 1/hour
+Effects: a small; softly glowing globule of white light (about the illumination of a lantern) under your control hovers around you for the duration; providing normal illumination in dark spaces. It is not of sufficient strength to blind opponents.
+Duration: 1 hour per WP spent; or until dispelled.
+Range: 2 meter radius.
+Area of Effect: illuminates 10 meters around the caster the same way a high quality oil lamp would.
+Casting Time: ½ action.
+
+Alarm ward:  
+Cost per Rank: 2
+Casting Number: 7
+Minimum MP req: 1
+WP Cost: 1 per 6 hours
+Reagents: a small bell (replace hours with days for duration); a bell made of gold (effect is permanent until triggered or dispelled); a vial of lamp oil (target that disturbs the ward is illuminated by magelight for 1d10 minutes); a compass needle (the mage can sense the direction of anything that disturbed the ward after making a DC15 combined willpower and intelligence check)
+Effects: any physical intrusion into the effective radius of the alarm ward as defined by the spellcaster before the spell is cast (for example; any animal; or anyone not already present in this camp; etc.) causes a piercing ringing (like a dozen large bells being vigorously rung) throughout the radius of the alarm ward; 
+Duration: 6 hours per WP spent; or until dispelled
+Range: line of sight
+Area of Effect: up to a 5 meter radius per caster MP point
+Casting Time: 1 action
+- you enchant an object or area (nothing larger than a 10 meter square); so that if it is disturbed (touched) by a physical object; loud alarm bells ring for 1 minute. Reagent: any kind of bell (cut casting roll in half). Duration is 1 day. Can be cancelled; reset; or extended by up to double duration with a successful roll.
+
+Counterspell
+Cost per Rank: 4
+Minimum MP req: 1 
+WP Cost: varies; proportionate to the WP cost of the spell being countered
+Effects: you and the opposing spellcaster engage in a battle of wills and magical knowledge; manipulating and shifting the winds of magic in a brief but decisive thrust/counterthrust battle of minds; roll the sum of your MP; INT; WILL; and ranks in “Counterspell” + 2d10 against the casting roll your opponent made on their spell (with their intelligence added in; and with full benefits from the Iron Will merit conferred to either side if they have purchased it); if you do not have a line of sight with your opponent; your counterspell suffers a -15 penalty; as being able to observe their gestures and manipulations of the winds of magic is vital to your success in defeating them; if the spell is successfully countered the opponent still pays the WP cost associated with it; but you only pay half of said cost; and you gain a brief and fleeting understanding of the workings of the spell and may choose a new target for the spell (including the original caster!); but they may also attempt to counterspell you if you redirect the spell upon them; if you fail to counter the spell; it succeeds as normal but you pay the spell's full WP cost; in addition; the enemy caster becomes aware of your location if they were not originally aware (even if you are invisible; however; you can move and they will not “track” you automatically with their mind)
+Duration: sustained until resolved (if the opponent is casting a sustained spell on which they succeeded the initial check; check again at the beginning of each round to continue disrupting it; you must disrupt it a number of consecutive rounds equal to their MP in order to permanently dispel their sustained spell)
+Range: 25 meters / MP point; range is denoted by the effective range of the spell (for example; if you saw a fireball spell coming at you from 100 meters away but you are only MP 2; you may still counterspell it so long as the fireball itself is within 50 meters of you; however; by focusing on the fireball you would not be able to maintain line of sight with the caster; and would suffer the normal penalty associated with lack of line of sight)
+Casting Time: ½ action
+
+
+Circle of Binding
+Cost per Rank: 
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Shield Spell
+Cost per Rank: 3
+Casting Number: 10
+Minimum MP req: 1
+WP Cost: 4
+Reagents: a piece of chainmail; free of rust (+3 deflection on all locations)
+Effects: the caster creates an invisible barrier that removes the inertia of objects that pass through it; you gain soak of 8 on all locations
+Duration: maintained; 2WP per round
+Range: self
+Casting Time: 2 actions
+
+Dart
+Cost per Rank: 2
+Casting Number: 8
+Minimum MP req: 1
+WP Cost: 2
+Reagents: a small throwing dart (+5 to casting number)
+Damage: 5 + 1d5
+Effects: the caster flings forth a bolt of sharpened aethyric energy; ignores armor
+Range: 10 meters per caster MP
+Casting Time: 1 action
+
+Lore of Light:
+
+Purifying Flame
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Ward of Protection
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Sphere Invioble
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Banish
+Cost per Rank: 4
+Casting Number: 19
+Minimum MP req: 3
+WP Cost: 10
+Reagents: a wand made from the heart of an oak tree (+5 to contested Willpower checks); a vial of holy water (+5 to casting number; take the better of two rolls for contested willpower checks); various holy artifacts may give unique bonuses depending on the type of daemon or spirit being banished (Shallya is particularly effective against Nurgle; Sigmar is great against everything; Morr is great against undead)
+Effects: you and a single target Daemonic entity or spirit enter a contest of wills; roll your Willpower against theirs; using your MP and skill in Banish as modifiers; on a success; the daemon is banished back to the aethyr or the spirit is sent to the Gardens of Morr (in game mechanics; instantly killed); on a failure where the target does not double your willpower check; you and it both remain motionless and unable to cast spells or dodge or take any actions at all until the next round where you will check again; if the target rolls double or more on your contested willpower check; the spell fails (GM's discretion if anything else interesting happens to your mage as a result of this); special note: multiple casters targeting the same entity may combine their rolls against it
+Duration: maintained until resolved; 5WP per round
+Range: line of sight; 50m
+Casting Time: 3 actions
+
+Exorcism
+Cost per Rank: 4
+Casting Number: 15
+Minimum MP req: 2
+WP Cost: 10
+Reagents: holy incense from a temple (+10 to casting roll); a ritual circle around the target made of pure salt (during or after the exorcism; the spirit or daemon cannot leave the circle and remains there to be banished or attacked); words of protection and purity written on the possessed by a priest of true faith (the daemon or spirit cannot harm the person they are possessing even after they are cast out); holy words of exorcism read from a book on the subject by someone of true faith (must be specific to the type of entity being exorcised); double the damage per minute; and add +10 to casting roll and +10 to contested willpower checks; constant prayers of a devout person of the Empire Pantheon; +5 to WP roll per person; +10 per person GM's discretion; usually must have actual “Devout” points or stats according to the Divine magic system; and must be a worshipper of a god that makes sense to have the power to aid in an exorcism; i.e. not Ranald or Rhya or Verena; but definitely Morr; Sigmar; Shallya; or Ulric)
+Damage: 10/min against the entity being exorcised; cannot be regenerated
+Effects: you engage in a battle of wills against an entity that has successfully rooted itself deep within the body and soul of a mortal; every minute; make a contested willpower check with the entity; adding in your MP and ranks in the spell as modifiers; on a success; the daemon is forced to reveal its true name (or if a spirit; its identity and the conditions by which it can go on to the afterlife); which in the case of a daemon can be used to banish it permanently; on a failure; it takes the damage listed above; and the next contested willpower check it makes with you will suffer a stacking -5 penalty; throughout the exorcism; the daemon or spirit will be transfixed on the spot (although it can still lash out at anyone nearby; and can cast spells at a -20 penalty); special: this spell can be used to remove daemonic possession of an item or haunting of a house or location; but the ritual circle made of salt is a requirement; and the casting number is increased by 10
+Duration: maintained at 5WP per minute until the exorcism is resolved
+Range: 5m; line of sight
+Casting Time: 3 actions
+
+Burning Gaze
+Cost per Rank: 4
+Casting Number: 16
+Minimum MP req: 2
+WP Cost: 6
+Reagents: a pinch of diamond dust (+20 to base damage); a handful of shards of glass from a mirror (enemies struck by this are blinded for 1d5 rounds)
+Damage: 1d10+5xMP
+Effects: burning white light streams forth from the caster's eyes; penetrating through his foes like a glowing hot needle through butter; damage is dealt in a line; and anyone else directly behind also takes full damage; undead; spirits; and daemonic entities take double the normal amount of damage; this spell is instantaneous and cannot be dodged or avoided; but is blocked by thick walls or stone or lessened (GM's discression) by equipment that affects vision (Greathelm/Sunglasses)
+Range: line of sight; 75m
+Casting Time: 2 actions
+
+Blinding Light
+Cost per Rank: 5
+Casting Number: 21
+Minimum MP req: 3
+WP Cost: 10
+Reagents: a disc of mithril (spell deals 10 damage and blinded time is doubled)
+Effects: the caster blasts a location with a wave of blindingly powerful light; all enemies in the AOE looking in the direction of the caster are completely blinded for 1 round if they fail a DC 25 initiative check (not using weapon skill as a modifier) and have any checks requiring vision for the next 1d5 rounds suffer a -10 penalty; all enemies within double the AOE that fail suffer the same -10 penalty for 1 round; any concealed or invisible units are revealed; and units using an invisibility spell (or spirits that are naturally treated as having the ability to become invisible) must make a check against your casting roll using their willpower; and if they fail they lose the ability to go invisible for rounds equal to 2 x your MP; this spell is instantaneous and cannot be dodged or avoided; although it is blocked by walls and heavy cover as any normal; enemies that are already blinded cannot be “re-blinded” by spamming the spell (however they are fair game once they have recovered their sight); nocturnal enemies such as night goblins or enemies used to darkness such as skaven are blinded for double the normal duration; enemies with special weaknesses against sunlight are treated as if they were just exposed to the midday sun briefly (vampires will likely take damage and have their characeristics reduced temporarily; some undead will collapse; etc.)
+Range: 20m + 10m/caster MP 
+Area of Effect: 45° Cone
+Casting Time: 3 actions
+
+Boon of Hysh
+Cost per Rank: 7
+Casting Number: 39
+Minimum MP req: 4
+WP Cost: 40
+Reagents: a lock of hair from the target; cut while he was well (reduce WP cost by 20; add 10 to casting roll)
+Effects: a soft; warm glowing white light infuses the afflicted; healing them fully and instantly; and cure any diseases or poisons currently affecting them
+Range: self or touch
+Casting Time: 5 actions
+
+Clarity
+Cost per Rank: 3
+Casting Number: 11
+Minimum MP req: 1
+WP Cost: 3
+Reagents: a drop of distilled water (reduce penalties by an additional 10); a clear glass bead (+5 to casting roll); a perfectly crafted anatomically correct crystal skull to the scale of the target (effect is permanent)
+Effects: choose a mental flaw currently affecting a character; decrease the DC to resist it by 10; effect does not stack on the same flaw; furthermore; this spell does not give the caster the ability to detect the flaws possessed by a character; and thus they must explain (in-game) the flaw (i.e. “I've got a bad temper/I'm a coward/I just never say the right things/I can be a bit greedy”) or the caster must know beforehand; no meta-gaming for this (although they are allowed to make an educated guess; Intelligence DC at the GM's discretion)
+Duration:  Hours equal to the caster's MP
+Range: self; touch
+Casting Time: 1 action
+
+Cleansing Glow
+Cost per Rank: 2
+Casting Number: 8
+Minimum MP req: 1
+WP Cost: 3
+Reagents: a bit of freshly made soap (+5 to casting roll)
+Effects: a dim glow passes over an item or character; rendering it clean and spotless; tarnish; dust; and rust are removed; rank smells are eliminated; and hair is combed and stubble is trimmed; spoiled food or drink can be returned to being as healthy and tasty as it was when it was made; though this spell will not remove poisons 
+Range: touch
+Casting Time: 1 action
+
+Daemonbane
+Cost per Rank: 6
+Casting Number: 25
+Minimum MP req: 3
+WP Cost: 10
+Reagents: a wand made from a tree struck by a natural lightning storm (+10 to your willpower check)
+Effects: daemons within the AOE must all make a competitive willpower check against the caster or be banished back to the hell from whence they came; if they succeed; they stay but suffer 20 damage.  Successive competitive willpower checks against the caster should he cast the same spell again repeatedly will cause the daemons to suffer a stacking -5 penalty to their willpower checks.
+Range: line of sight; 75m
+Area of Effect: 25m radius
+Casting Time: 4 actions
+
+Dazzling Brightness
+Cost per Rank: 2
+Casting Number: 12
+Minimum MP req: 2
+WP Cost: 4
+Reagents: a small mirror (+5 to duration and +5 to casting roll)
+Effects: targets within the AOE that fail a willpower check of 15 suffer a -10 to all observation and combat checks (effect does not stack if cast repeatedly)
+Duration: rounds equal to 1d5 + caster MP
+Range: line of sight; 50m
+Area of Effect: radius of 10m x caster MP
+Casting Time: 2 actions
+
+Eyes of Truth
+Cost per Rank: 4
+Casting Number: 20
+Minimum MP req: 3
+WP Cost: 8
+Reagents: a glass sphere at least 5cm in diameter (+10 to casting roll)
+Effects: your vision pierces any shadows or concealment; illuminating all before you; gain +10 to observation checks; you can see perfectly through shadow or even complete darkness and all hidden or invisible characters are revealed to you
+Duration: sustained (1WP per minute)
+Range: self
+Casting Time: 2 actions
+
+Healing of Hysh
+Cost per Rank: 3
+Casting Number: 12
+Minimum MP req: 1
+WP Cost: 1WP per 2 HP healed
+Reagents: a clear glass bead (+5 to casting roll)
+Effects: you heal a character up to 2 x caster MP per round
+Duration: sustained
+Range: self or touch
+Casting Time: 1 action
+
+Purify
+Cost per Rank: 3
+Casting Number: 18
+Minimum MP req: 2
+WP Cost: 5 + 3 per additional target
+Reagents: a poultice (+5 to casting roll; decrease cost per additional target to 2); a flask of pure high-proof spirits (+10 to casting roll; any attempts to re-infect targets suffer a -10)
+Effects: you cure a number of targets up to your MP; removing any diseases or poisons afflicting them; this can also be used on diseased or polluted items such as water; food; weapons; etc; diseases of magical or supernatural nature require you to beat their casting roll (or a DC of the GM's choosing)
+Area of Effect: 10m radius around caster
+Casting Time: 2 actions
+
+Illuminate the Edifice
+Cost per Rank: 2
+Casting Number: 12
+Minimum MP req: 1
+WP Cost: 4
+Reagents: an unburned wax candle (+5 to casting roll)
+Effects: you illuminate all the rooms and objects within single contiguous building; whose size corresponds to your MP (MP1 = a shack; hovel; or barn; MP2 = a single or double story house of moderate size; MP3 = a manor house or large building; MP 4 = a palace or massive multi-story temple; MP 5 = any building at all); light suffuses the building; shining in all rooms; closets; attics; and between floorboards; shingles; windows; and keyholes; any observation checks made in the building gain a +5
+Duration: hours equal to caster`s MP
+Range: touch (any part of the house will do; so long as it is attached to the rest of the house)
+Casting Time: 1 action
+
+The Power of Truth
+Cost per Rank: 3
+Casting Number: 15
+Minimum MP req: 2
+WP Cost: 10
+Reagents: a blank sheet of vellum (+5 to casting roll)
+Effects: a character you touch becomes more convincing but only if he speaks honestly; +5 to persuade or intimidate or command or inspire checks or any checks involving public speaking; telling a lie will break the spell; in addition; people will naturally want to pay attention to what you are saying; and will cease their own conversations to listen to you unless they pass a DC 20 willpower check
+Duration: hours equal to the caster`s MP; sustained at 5WP per hour
+Range: self; touch
+Casting Time: 2 actions
+
+Light of Purity
+Cost per Rank: 2
+Casting Number: 12
+Minimum MP req: 1
+WP Cost: 4 + 2 per hour per fire
+Reagents: an unlit candle blessed by a priestess of Shallya (duration x 3; effects can resist disease of daemonic (Nurgle) origins as well; so long as the disease spell`s casting number doesn`t exceed the sum of your casting roll and the target`s strength check)
+Effects: you must light a fire as you cast this spell (anywhere from the size of a candle up to a bonfire); the flames turn pure white; and characters fully illuminated by the light of this fire do not suffer any ill effects from disease or poison so long as the flames continue to burn; fires can be fed fuel as normal to extend their duration; and any smaller fires made from this one; i.e. candles lit from the original candle; etc. have the same effect; however; the flames can be put out by normal means as well; such as wind or water or sand smothering/dousing them
+Duration: maintained; 2WP per individual fire per hour; special: mages that are maintaining this spell do not suffer from the normal penalties associated with casting multiple spells
+Range: touch
+Area of Effect: variable (5m radius for a candle; 10m for a torch or lantern; 30m for a campfire; 50m for a large bonfire; etc.)
+Casting Time: 2 actions
+
+Light's Demand
+Cost per Rank: 4
+Casting Number: 18
+Minimum MP req: 2
+WP Cost: 6
+Reagents: a flawless mirror (+10 to casting roll; targets take 5 x caster MP in damage per round)
+Effects: brilliant radiance flows forth in an arc from the caster; all daemons; spirits; and undead caught in the arc must make a will check against the casting roll made by the caster; on a fail; they are unable to move
+Duration: rounds equal to the caster`s MP; sustained at 3WP per round
+Range: 30m
+Area of Effect: 30 degree arc
+Casting Time: 2 actions
+
+Pillar of Radiance
+Cost per Rank: 7
+Casting Number: 35
+Minimum MP req: 4
+WP Cost: 15
+Reagents: a small cut diamond (+70 damage)
+Damage: 30 + 1d10 x caster MP
+Effects: all targets hit by the pillar of radiance suffer damage and must pass a willpower check against the casting number or suffer a -10 to all observation or combat checks; damage and effects are doubled for undead or daemonic entities
+Duration: 1d5 rounds; stacks if the spell is cast repeatedly
+Range: 100m; line of sight
+Area of Effect: a 25m radius circle
+Casting Time: 4 actions
+
+Inspiration
+Cost per Rank: 3
+Casting Number: 15
+Minimum MP req: 2
+WP Cost: 15
+Reagents: a page from a book on the subject you are making the check on (+10 to casting roll; -5 from WP cost)
+Effects: you allow the light of Hysh to shine upon a particularly vexing problem; illuminating the answer that has been eluding you; choose an intelligence skill; and gain a +20 to your next roll for that subject; may not be used on observation; does not stack for the same skill (although separate checks can be made in the same skill with the same bonus if Inspiration is cast multiple times)
+Duration: up to 1 day or until used
+Range: self
+Casting Time: 3 actions
+
+Radiant Sentinel
+Cost per Rank: 4
+Casting Number: 16
+Minimum MP req: 2
+WP Cost: 10
+Reagents: a polished; high quality metal buckler
+Effects: you create a ball of light that hovers about you as slowly or quickly as the situation demands; providing illumination (use same stats as magelight) and also deflecting a single melee attack against you per round (use your spell skill; MP; Willpower and Intelligence as modifiers for skill checks); to a max number of blows equal to 2 x caster MP; can be cast twice at MP 3; and 3 times at MP 5; each additional casting adds a cumulative 10 to the willpower cost
+Duration: hours equal to caster MP
+Range: self
+Casting Time: 1 action
+
+Radiant Gaze
+Cost per Rank: 2
+Casting Number: 10
+Minimum MP req: 1
+WP Cost: 3
+Reagents: an intact glass lens (+10 damage)
+Damage: 5 + 1d10
+Effects: your gaze flashes twin spears of light at a target; sometimes; looks really can kill; double damage against undead or daemons
+Range: line of sight; 50m
+Casting Time: 1 action
+
+Guardian Light
+Cost per Rank: 4
+Casting Number: 15
+Minimum MP req: 2
+WP Cost: 6
+Reagents: a white rose (+10 to casting roll); heart of a lion (caster and allies are immune to fear checks for the duration)
+Effects: filling your mind and the minds of your allies with the comforting light of Hysh; you become resistant to attempts to manipulate your mind through magic; and their hearts are filled with courage; +20 to resist fear and mental domination; and + 10 to resist mental flaws on your character sheet (including allies affected by the spell)
+Duration: 5 minutes per caster MP
+Area of Effect: 10 meter radius around caster
+Casting Time: 2 actions
+
+Shards of the Sun
+Cost per Rank: 8
+Casting Number: 45
+Minimum MP req: 5
+WP Cost: 50
+Reagents: a large; flawless diamond (+20 to casting roll; duration is extended rounds x caster mp x 1d10; WP cost is reduced to 10)
+Damage: 50 + 5d10 
+Effects: the sky fills with lancing beams of brilliant destruction falling like rain upon the enemy; searing and cutting them to shreds; all targets within the AOE take 50 + 5d10 damage per round; if cast during the day; they are blinded for the duration of the spell; all undead and daemonic entities in the AOE must make a Willpower check against the caster`s casting roll or be banished; and they all take double the normal amount of damage; all mortal creatures within the AOE must make a strength check with DC 30 or be rendered immobile by the pain caused by the spell; this spell violently disrupts the winds of magic in the area; and can be felt in a 10km radius by all other magic users; in addition; magic cast in a 5km radius suffers a -10 to its casting roll for the next 1d10 days; use of this spell is reserved for only the most desperate circumstances; and any magister casting it without proper restraint can count on harsh censure; and possibly even being consigned to an acolyte choir for a decade as penance
+Duration: sustained (15 WP per round)
+Range: 200m; line of sight
+Area of Effect: 250m radius
+Casting Time: 5 actions
+
+Radiant Weapon
+Cost per Rank: 2
+Casting Number: 12 
+Minimum MP req: 1
+WP Cost: 5
+Reagents: a silver charm (+5 damage vs. undead and daemons; + 5 hours to duration)
+Damage: +10 vs. undead and demons; +5 vs. mortal creatures blessed by the dark gods
+Effects: a weapon (or a quiver full of arrows or bolts; or a sack of shot; or a cannonball; etc.) becomes suffused with glowing pure white light; and is treated as a magical weapon for the purposes of harming spirits and daemonically or magically protected targets; the weapon also counts as a light source equivalent to a torch for the duration
+Duration: hours equal to caster MP
+Range: touch
+Casting Time: 1 action
+
+Ward of Sanctity
+Cost per Rank: 4
+Casting Number: 14
+Minimum MP req: 2
+WP Cost: 6 + 5 per 10m radius increase
+Reagents: salt poured in an unbroken circle (the effect lasts as long as the salt remains unbroken; and DC base to pass it increases to 50); a vial of oil blessed by a priest of Sigmar (anything that contacts the ring suffers a single 50 damage hit)
+Effects: a glowing white ring appears around the caster; following him as he moves; undead or daemons that attempt to cross the line (or in confined spaces; that are forced to cross it if the caster forces them up against a barrier) must succeed a DC 25 + casting roll willpower check or they are repelled the first time; stunned the second time; and banished the third time they attempt to cross it (in the case of undead; the power animating them flees; and they fall to the ground motionless; vampires are stricken by terror and suffer the effects of terror the same as a mortal would if they were being menaced by a monstrous creature; be careful if the vampire has no escape however; as they may end up fighting their way past the caster instead; which could have ugly consequences) 
+Duration: hours equal to the caster`s MP
+Range: self
+Area of Effect: 10 meters x caster MP radius
+Casting Time: 3 actions
+
+Shimmering Cloak
+Cost per Rank: 4
+Casting Number: 11 
+Minimum MP req: 2
+WP Cost: 7
+Reagents: a pinch of silver flakes (reduce base ranged damage to a quarter of its base damage; and spells attempting to target you suffer a -10 to their casting roll)
+Effects: a shimmering field envelopes the caster; reducing the damage from all ranged attacks to their base damage cut in half; any magical attacks directed at the caster whose casting roll is less than the casting roll for this spell also have their damage reduced by half
+Duration: minutes equal to caster MP; sustained at 5WP per additional minute
+Range: self
+Casting Time: 2 actions
+
+Pha's Illumination
+Cost per Rank: 7
+Casting Number: 36
+Minimum MP req: 4
+WP Cost: 20
+Reagents: twin silver gauntlets (triple your melee attack damage); a miniature sundial made of solid gold (all spells targeting you suffer an additional -10 to their roll and all daemonic or spirit entities within meters equal to your MP are blinded if they look at you and move at half speed; and suffer 20+2d10 damage per round)
+Damage: unarmed melee attacks have a base damage of 5 x caster MP; cause knockback equal to 5+1d10 meters; attacks per round are limited to the normal amount of melee attacks; but use the caster's MP+Will+Intelligence+spell ranks as their skill modifier; damage dealt is magical in nature and not reduced by armor or defensive spells; even chaos armor; damage against entities of chaotic or necromantic origin take 2x the normal amount of damage
+Effects: The caster (or his target if he casts it on someone else) shines with brilliant luminescence; and their hands glow with pure white light; searing any enemies foolish enough to challenge him in melee combat; melee weapons cannot be used by one enchanted by Pha's Illumination; and must be sheathed or put down before the spell can be cast; damage from magical or daemonic origins is cut in half; and spells attempting to target him suffer a -20 to their casting roll.
+Duration: rounds equal to the caster's MP/2 rounded up; and then sustained at 10WP per round
+Range: self or touch
+Casting Time: 5 actions
+
+Pha's Protection
+Cost per Rank: 3
+Casting Number: 15
+Minimum MP req: 2
+WP Cost: 5
+Reagents: a pinch of ground glass (+5 to casting roll); a vial of distilled vinegar (attackers suffer an additional -5 penalty)
+Effects: the caster creates a piercing sparkling aura around them which is painful to look at and warps the visage of the caster and those around him (although he and his companions can see out as normal); ranged attacks made against those protected by the aura suffer a -15 to hit; and each additional attempt suffers a stacking -5 penalty; however; shots fired at close range or barrages of shots (such as a hail of arrows or a volley from a firing line) will hit on an 9+ with a separate die rolled for each individual shot; characters within the aura roll a single die against each other to see who is unlucky to be hit; with players taking successful shots in order of the lowest roll and up
+Duration: 1 minute/caster MP; maintained beyond that at 4WP per minute
+Range: self
+Area of Effect: 10m + 2mx caster MP radius around the caster
+Casting Time: 3 actions
+
+The Speed of Light
+Cost per Rank: 5
+Casting Number: 21
+Minimum MP req: 3
+WP Cost: 10
+Reagents: the hooves of a racing horse (+10 to casting roll); a high quality fencing foil (+5 to all bonus modifiers received by those affected)
+Effects: the caster and all friendly targets are swelled with the speed and clarity of Hysh; within the AOE move swiftly and seem exceptionally quick and aware of their surroundings; making them difficult to hit in melee and their attacks seem to rain down with incredible swiftness; everyone gains 1 additional action (including mental actions); and gains a +5 modifier to all melee combat checks (including initiative)
+Duration: maintained; 5WP per round
+Range: self
+Area of Effect: 10m radius around caster
+Casting Time: 4 actions
+
+Light of Battle
+Cost per Rank: 2
+Casting Number: 14
+Minimum MP req: 2
+WP Cost: 5
+Reagents: a piece of a banner used by the victorious side in a battle (double effective radius)
+Effects: the caster launches a flare of light overtop of him; and his allies are filled with courage; all those within the AOE automatically pass the next number of fear checks equal to the caster's MP (those that may have already been fleeing or failed a fear check use one up and are rallied)
+Range: self
+Area of Effect: 75m radius
+Casting Time: 2 actions
+
+Net of Amyntok
+Cost per Rank: 5
+Casting Number: 22
+Minimum MP req: 3
+WP Cost: 11
+Reagents: a net woven of silver mesh (+20 to casting roll); a branding iron used to torture a heretic (+2d10 damage)
+Damage: 15 + 1d10 (double against daemons or undead)
+Effects: a searing white net of Hysh envelops an enemy; if they attempt to move they must first pass a STR check of 25 to resist the pain as the net blisters their flesh and cooks them alive; if they attempt to use a spell; they must pass a contested willpower check with the caster; and even if they succeed they still take the damage and must pass the strength check or count as distracted and suffer a -20 to their casting rolls; all checks are made every time the target attempts to move or cast a spell; adn the damage is applied every time
+Duration: rounds equal to the caster's MP
+Range: line of sight; 30m
+Casting Time: 4 actions
+
+Birona's Timewarp
+Cost per Rank: 9
+Casting Number: 44
+Minimum MP req: 5
+WP Cost: 50
+Reagents: an hourglass filled with sand ground from a single pure flawless crystal (increase duration by rounds equal to the caster's MP free of WP charge)
+Effects: The caster spins a web of Hysh so swiftly around himself and his allies that it distorts time; the caster and all allies within the AOE gain +30 to their initiative; Danger Sense; 3 additional actions (including mental actions); and gain a + 10 to all combat checks; and can dodge projectiles (excluding bullets shot from firearms)
+Duration: maintained at 20WP/round
+Range: self
+Area of Effect: 25m radius around caster
+Casting Time: 6 actions
+
+Lore of Metal
+
+Zhaan's Rain of Swords
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Zhaan's Shield D'Or
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Golden Bullets of Aiban
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Skin of Golden Adamantite
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Transmutation of Lead
+Cost per Rank: 4
+Casting Number: 17
+Minimum MP req: 3
+WP Cost: 8
+Reagents: an alchemist's crucible (+10 to casting roll); a pint of molten lead (causes weapons and armor to soften and heat up; they no longer deal any damage or provide any protection and if used or damaged; will deform and come apart; and GM's discretion if users contacting them will take 5 + 1d10 damage per round they remain in contact with them; per item depending on size; and the target must make a Willpower (pain) check with DC 25)
+Effects: you temporarily transmute any and all metal items on a character to pure lead; they become heavy and relatively soft; and any armour causes double the normal penalties it would to its user while providing half the protection; and any weapons suffer a -10 penalty to all combat rolls and lose half their damage and all their penetration; after a short while; the metals revert to their original nature but any changes caused to their form (such as swords snapping; bending; or becoming dull) will remain
+Duration: 2 rounds per caster MP (enchantment; not maintained)
+Range: line of sight; 20 + (caster MP x 10) meters
+Casting Time: 3 actions
+
+Distillation of Molten Silver
+Cost per Rank: 5
+Casting Number: 18
+Minimum MP req: 3
+WP Cost: 7
+Reagents: a vial of quicksilver (add 1d10 additional ribbons of molten silver); a stack of 12 silver coins and 1 lead pellet (double range; add + 5 damage to each ribbon; molten silver turns to lead when it comes into contact with the target; getting into the joints of metal armour and the mechanisms and blades of weapons; and remaining there causing people using these items to suffer a permanent -5 to all combat checks (at the GM's discretion) involving weapons and armour until they have the time to pry off the metal once it's cooled)
+Damage: 5 + 1d5 per ribbon; 2 ribbons per caster MP; each ribbon can be aimed separately; damage is doubled against opponents with natural weaknesses to it (such as werekin and some undead)
+Effects: you call upon the ambient metallic essence in the surrounding winds of magic; and focus it into molten globules of silver; casting them forth in burning ribbons to boil your enemies in it; the silver vanishes back into the winds of magic after casting; but not before it has discharged its burning heat (enemies must make pain checks; Willpower DC 25)
+Range: 25m; strikes in a line 1 square meter wide (the ribbons flow over and between targets in a line)
+Casting Time: 3 actions
+
+Rule of Burning Iron
+Cost per Rank: 54
+Casting Number: 18
+Minimum MP req: 3
+WP Cost: 10
+Reagents: a red-hot blade (+15 to casting roll; decrease WP cost per round to 2); an intact bellows (+10 damage per round; stacking); a masterwork smith's hammer (every round the target is smashed by an invisible force 1d10 meters in a random direction; suffering 10 damage each time and any falling damage they would normally take; usually 1d10)
+Damage: 10 the first round; 20 the second; 30 the third; 40 the fourth; 50 the fifth
+Effects: you gather the essence of Chamon around you and infuse it into any metal an opponent is wearing; this heats up as if it were placed back into the coals where it was forged; heating them up until the enemy is being cooked alive inside his armour and his weapon is branding his hand; each round; they must make a pain threshold check equivalent to the damage they took from being burned (Willpower DC10 the first round; 20 the second … etc.); limited to a single target; and for full damage the enemy must be wearing sufficient metal armor (weapons will never do more than 10 damage per round under normal circumstances; although the pain check to drop the weapon will stack as normal)
+Duration: sustained for max 5 rounds; 5WP/round
+Range: 15 meters + (5m x caster MP)
+Area of Effect:
+Casting Time:
+
+The Spirit of the Forge
+Cost per Rank: 8
+Casting Number: 28
+Minimum MP req: 4
+WP Cost: 20
+Reagents: same as “rule of burning iron”
+Damage: 15 the first round; 30 the second; 45 the third; 60 the fourth; 75 the fifth; 90 the sixth
+Effects: same as “rule of burning iron”; Magisters of the Golden Order being trained as battle-mages often learn to multiply the effects of the dreaded “Rule of Burning Iron” by infusing an entire area with the power of Chamon so that any metal there will be heated up like it were placed in a master smith's crucible
+Duration: sustained for max 6 rounds; 8WP/round
+Range: 30 meters + (10m x caster MP)
+Area of Effect: 10m + 5m x caster MP radius
+Casting Time: 5 actions
+
+Breach the Unknown
+Cost per Rank: 4
+Casting Number: 22
+Minimum MP req: 3
+WP Cost: 9
+Reagents: a dram of ruby sulphur extract (+10 to casting roll)
+Effects: with the aid of Chamon; you thoroughly analyze an object; determining its material properties and any special mundane properties it might contain; for instance; a wizard using this spell could learn the medicinal properties of a toadstone. In addition; for every 10 you exceed the casting number by you may determine a magic items properties and enchantments (1 property or enchantment per 10 exceeding the roll); although strangely enough the negative properties and any curses seem to always be the last thing to be found out; items with secret or invisible messages or code can be revealed this way as well; although they won't be translated
+Range: touch
+Casting Time: 1 minute
+
+Curse of Rust
+Cost per Rank: 2
+Casting Number: 10
+Minimum MP req: 1
+WP Cost: 2
+Reagents: a rusty nail (+5 to casting roll)
+Effects: you corrode an object made of iron or steel; making it rusted; pitted; and pretty much useless; weapons lose half pen and half damage and roll 1d10 if used to strike with; and metal components break on anything less than an 8; armour loses half deflection and half soak if its made of iron and similarly rolls 1d10 to crack or come apart; items must be less than 20lbs heavy per caster MP
+Duration: permanent
+Range: line of sight; 20m
+Casting Time: 1 action
+
+Enchant Item
+Cost per Rank: 4
+Casting Number: 15
+Minimum MP req: 2
+WP Cost: 5
+Reagents: a griffon's feather (effect is permanent)
+Effects: you modify and restructure an item to make it better for its purpose; infusing it with the power of Chamon; lighter melee weapons become sharper and stronger without becoming more difficult to wield; and gain +2 to their base damage and +2 to their base penetration; heavier melee weapons become less unwieldy and do not suffer any penalties to parrying or attacking that they would normally be taking; and additionally deal an extra 1d10 damage; ranged weapons gain half again their effective range and shoot more smoothly and straightly; gaining a +5 to all ranged attacks; ammunition becomes more destructive; gaining +3 to base damage and +2 to base penetration; with the number of arrows; bolts; or shots that can be enchanted = caster MP; armour gains an additional +2 to soak and deflection and loses half the penalties it is currently imposing on the user; in addition; these items become magical in nature and thus can harm supernatural beings such as spirits; daemons; and a variety of monsters that would normally shrug off attacks from mundane sources
+Duration: 1 hour per caster MP
+Range: touch
+Casting Time: 1 minute
+
+Enchanted Blades of Aiban
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: The Wizard sends powerful magic coursing over his allies' weapons makeing them infinitely stronger and sharper than before. (temp bonus to accuricy)
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Fault of Form
+Cost per Rank: 3
+Casting Number: 10
+Minimum MP req: 1
+WP Cost: 3
+Reagents: a small metal file (+5 to casting roll); schematics for a failed invention (effect is permanent)
+Effects: you subtly modify an instrument so that it becomes weakened; sabotaged and unwieldy; as if made by one who lacked any modicum of talent or skill; double any penalties that an item would normally be suffering (such as armour slowing down a user or gunpowder weapons misfiring on 1's); and cause checks made with said item to be rolled twice; with the worse of two rolls being kept
+Duration: 1 hour per caster MP
+Range: sight; 10m per caster MP
+Casting Time: 1 action
+
+Commandment of Brass
+Cost per Rank: 4
+Casting Number: 25
+Minimum MP req: 3
+WP Cost: 12
+Reagents: a cog from a complex machine (+5 to casting roll); the barrel from a gun that misfired (+10 to casting roll)
+Effects: warping the mechanical instruments in an area by attaching wild strains of Chamon to them; you cause machines and mechanical objects to break down and cease working; nails to break and bend; barrels to be distorted; and the very wheels of machines to be warped; any constructions and complex machines are ruined so that they must be replaced; and any guns that attempt to fire will misfire on anything but double 10's; magisters who use this spell carelessly may find themselves suffering punishments of a cruel and unusual nature; as the members of the Gold Order do not take lightly to their (relatively) good reputation being ruined at the whims of errant mages.
+Duration: permanent
+Range: 10 meters; line of sight
+Area of Effect: 5 meter radius + 1 meter per caster MP
+Casting Time: 4 actions
+
+Final Transmutation 
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: The wizard unleashes a hail of magical energy; transmuting the flesh of his foes to unliving golden statues. gold reverts to flesh after 1d10 days
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Fool's Gold
+Cost per Rank: 3
+Casting Number: 17
+Minimum MP req: 2
+WP Cost: 10
+Reagents: a lump of fool's (pyrite) gold (increase the duration for 1 hour; double the amount of coin that can be enchanted); a halfling's gold tooth (+5 to charisma rolls made by the caster if they smile; as one of their teeth becomes a gold tooth that glitters exceptionally brightly)
+Effects: you alter an item of relatively low quality or value to appear as if it were of exceptional quality or value; a rusted dagger becomes gilded at the hilt and razor sharp; and polished to a sheen; an old broken wooden clock would turn into a pewter and silver masterpiece complete with a cuckoo crowing on the hour; up to 10 coins per caster MP will become freshly minted marks of higher denomination; this spell is not an illusion but rather a temporary transmutation; but strangely enough magisters have noticed that any sharp knocks or jolts given to said objects will cause them to revert back to their original form (for example; if one were to swing a masterwork broadsword that was enchanted with “fools gold” and was in reality rusted and useless; they would notice that it had reverted to its original form; this is also one of the reasons why apprentices of the Gold Order are discouraged from attempting to cheat merchants of their wares using worthless coins; because apart from the obvious ruin it would bring to the good name of the order; most merchants bite gold coins to determine if they are made of wax or mixed with lesser base metals regardless)
+Duration: 1 hour per caster MP
+Range: touch
+Casting Time: 2 actions
+
+Gehenna's Golden Hounds
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: Blowing on a glimmering golden whistle; the Wizard summons a massive pair of clockwork hounds; which bound after his chosen prey and drag it screaming to its doom.
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Genenna`s Brazen Bull
+Cost per Rank:
+Casting Number:
+Minimum MP req:
+WP Cost:
+Reagents:
+Damage:
+Effects: Stamping his feet upon the ground and bellowing; the Wizard conjures forth a massive mechanized bull powered by steam and arcane energies; which plows effortlessly through his foes
+Duration:
+Range:
+Area of Effect:
+Casting Time:
+
+Glittering Robe
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: Shaping a sigil of power; the Wizard conjures a gaudy; but effective; cloak of shimmering scale to protect his allies.
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Guard of Steel
+Cost per Rank: 4
+Casting Number: 11
+Minimum MP req: 1
+WP Cost: 6
+Reagents: a steel ball (+10 to casting roll)
+Effects: you conjure forth shimmering orbs of steel that spin in a blur around your body; intercepting blows aimed at you and deflecting shots fired your way; melee and ranged attacks made against you roll a 1d10 and miss on a 5 or below
+Duration: 1 minute
+Range: self
+Casting Time: 1 action
+
+Inscription
+Cost per Rank: 2
+Casting Number: 6
+Minimum MP req: 1
+WP Cost: 1
+Reagents: (none; nobody would waste one on this spell)
+Effects: by passing your hand over a metal surface you may inscribe any number of words you desire that could reasonably fit onto the surface; although every dozen past the first 12 causes your casting time to increase by an additional 30 seconds; pictures can also be drawn; with the size and detail of the picture increasing the casting time at the GM's discretion
+Duration: permanent
+Range: touch
+Casting Time: 30 seconds
+
+Law of Age
+Cost per Rank: 3
+Casting Number: 10
+Minimum MP req: 1
+WP Cost: 5
+Reagents: a fossilized bone (effect is permanent)
+Effects: you cause a single inanimate mundane object to become brittle (such as chains; doors; windows; bindings; bars; or an enemy's shield or sword); decreasing the normal strength DC to break or shatter it by half; if used on weapons or armour; striking them full force (or striking with them) causes them to roll a 1d10 for every strike; breaking on a 2 or below; stacking by 1 per strike (so on the second strike it would break on a 3 or below)
+Duration: 1min + 1min/caster MP
+Range: touch or line of sight (10 meters/caster MP)
+Casting Time: 2 actions
+
+Law of Form
+Cost per Rank: 2
+Casting Number: 10
+Minimum MP req: 1
+WP Cost: 5
+Reagents: a steel rod (+1 hour to spell duration; +5 to casting roll)
+Effects: you transmute an inanimate object to take on the hardness; weight; and qualities of solid steel; increasing its encumbering effect if it must be carried; and making it much harder to break; if used on low quality metal armour it is treated like high quality metal armour; if used on a torch; it won't ignite; if used on a door it will be extremely difficult to break; if used on a rope it will become rigid and similarly difficult to break; be wary; as using this on armour designed to flex and move (such as leather armour or bows) tends to have undesirable effects for the user
+Duration: 1 hour per caster MP
+Range: touch or line of sight (10 meters/caster MP)
+Casting Time: 2 actions
+
+Law of Gold
+Cost per Rank: 6
+Casting Number: 26
+Minimum MP req: 3
+WP Cost: 12
+Reagents: a small but ornate golden sheath; must be of high quality (+20 to casting roll); a nugget of warpstone (negative effects become permanent)
+Effects: you enshroud a magical artifact with the brilliance of Chamon's golden essence; magnifying and sometimes “haywiring” the magical characteristics therein; modify the magical properties of an item; you may choose a single magical characteristic and double or half it; or modify (GM's discretion) a single characteristic; this spell can also be used to cause a random (GM's discretion) negative characteristic to pop up (roll 1d10 for severity) in a magical item.
+Duration: 1d10 rounds + caster MP
+Range: 25 meters; line of sight
+Casting Time: 3 actions
+
+Law of Lead
+Cost per Rank: 6
+Casting Number: 26
+Minimum MP req: 3
+WP Cost: 12
+Reagents: a lidded vessel made of pure lead; clapped shut at the completion of the spell
+Effects: by blanketing an item in the dull; sapping essence of lead you temporarily nullify its magical properties; treat the item as if it was mundane (except for items that are rendered magically indestructible); mages of exceptional power (MP 4 or above) are taught a specialized version of this spell that can be used to bind and nullify the powers of an enemy mage of similar or lesser power (same MP or lower); for this; the other mage must roll a willpower check against your casting number; including their MP as a modifier; on a success; you bind their powers and they are rendered magically inert for the duration of the spell; on a failure; the spell explodes outwards and all magic in the surrounding kilometer is deadened for the next hour; causing all mages there to suffer -15 to their casting rolls and gain 1d10 insanity points
+Duration: 1d10 rounds + caster MP
+Range: 25 meters; line of sight
+Casting Time: 3 actions
+
+Law of Logic
+Cost per Rank: 4
+Casting Number: 17
+Minimum MP req: 2
+WP Cost: 7
+Reagents: a blank piece of paper (+5 to casting roll)
+Effects: you use the magic of logic to help solve a particular problem; gain +15 to a particular skill test (specified before the spell is cast) under the intelligence tree (cannot be observation); the skill test must be made within 5 minutes of casting the spell
+Range: self
+Casting Time: 1d10 minutes
+
+Rigidity of Body and Mind
+Cost per Rank: 5
+Casting Number: 14
+Minimum MP req: 2
+WP Cost: 8
+Reagents: a patch of minimum average chain mail at least 10cm square (+10 to casting roll)
+Effects: your body and mind take on the properties of metal; making them strong; resistant and immutable; gain 5 soak and 5 deflection on all locations (stacks normally with armour); and gain +15 to resistance-based willpower checks (can't be used to give you a bonus to mentally dominate someone) 
+Duration: 1 minute per caster MP; sustained afterwards at (4WP/minute)
+Range: self
+Casting Time: 2 actions
+
+Secret Rune
+Cost per Rank: 2
+Casting Number: 13
+Minimum MP req: 2
+WP Cost: 4
+Reagents: a vial of ink infused with gold flakes worth at least 1 gc (may be used in conjunction with “breach the unknown” and “law of logic” to translate coded or foreign languages or messages)
+Effects: a more advanced version of the spell of “inscription”; this one allows the message to be rendered invisible once written; and can be cast on any surface; it can be cast again on invisible messages to reveal them or to hide them again; Also If the casting roll doubles; a mage can choose a condition where the message is revealed; ie in the light of the moon; or when a secret word is spoken. In terms of inscription length; same rules apply as the “inscription” spell
+Duration: permanent
+Range: touch
+Casting Time: 30 seconds to inscribe; 5 seconds to reveal or conceal
+
+Silver Arrows of Arha
+Cost per Rank: 4
+Casting Number: 15
+Minimum MP req: 2
+WP Cost: 4
+Reagents: a silver arrowhead (+5 to casting roll; +5 to damage for each arrow)
+Damage: 10 per arrow; 3 arrows per casting (can be aimed at multiple different targets)
+Effects: you conjure and fire forth 3 silver arrows; which pass through enemies as easily as if they weren't wearing any armour; double damage against creatures naturally vulnerable to silver 
+Range: 50 meters + 10m/caster MP; arrows strike through a number of targets equal to the caster's MP; dealing full damage to each
+Casting Time: 2 actions
+
+Stoke the Forge
+Cost per Rank: 2
+Casting Number: 6
+Minimum MP req: 1
+WP Cost: 1
+Reagents: a breath of hot air (+5 to casting roll); “hot” air must be hotter than ordinary temperature of human breath; i.e. by inhaling steam from a boiling pot or air from in front of a fire or forge
+Effects: you cause any fire already burning in a forge; stove; fireplace; or any man-made housing (not a campfire) where flames are bent to human purpose to suddenly start burning as hot as would normally be possible; without consuming any additional fuel
+Duration: 1d10 minutes per caster MP
+Range: 5 meters per caster MP
+Casting Time: 1 action
+
+Tale of Metal
+Cost per Rank: 2
+Casting Number: 9
+Minimum MP req: 1
+WP Cost: 2
+Reagents: a lens (+5 to intelligence checks made later to recall information); a blank book of high quality; with a quill and plenty of ink (allows you the full history of an object; including it's intended use; this will all be written down in the book; taking often up to an hour; for example; a key would include the locksmith who made it; the location of his shop; the metal used in its creation and where it was mined; the time and date of its creation; and a description and diagram of the lock it is intended to unlock; the quill and ink are consumed but the book remains; and it will be filled out in full i.e. all pages used up; the more information the tighter the script and smaller the letters; if anyone cares about that shit)
+Effects: you peer into the past of a man-made metal object; witnessing its mining; smelting; forging and assembly as if you had been there watching it; this can not be used to give you skill in the making of a particular item; but only the theoretical knowledge of how to do it; however; if you already have sufficient skill in the creation of the type of item in question; it would be easy to reproduce it with the proper tools and time; after casting the spell; you can make an intelligence check (varying DC; GM's discretion) to remember specific details not central to the item; such as what the smith or engineer who made it looked like; or what else was being made in the same place; or where the place it was made or where the raw materials to make it were gathered
+Range: touch
+Casting Time: 1 action
+
+Transformation of Metal
+Cost per Rank: 4
+Casting Number: 18
+Minimum MP req: 2
+WP Cost: 6
+Reagents: a charm in the shape of a hammer and anvil (+5 to casting rolls)
+Effects: you reshape a piece of metal with your hands and mind; causing it to take on a new shape; you cannot change the materials present within the item into new ones (such as turning iron into alloyed steel or copper into bronze); but can alter the form so long as the total amount of material remains constant or decreases; for instance; a buckler could be turned into a large flagon; or a sword into a ball of iron (the non metallic parts fall aside); or a greatsword could be made into a dozen solid steel daggers; the quality of the item made is determined by your casting roll modified by any skills related to it (such as blacksmithing to forge a horseshoe or engineering to shape a cog); with 10 and under being of low quality; 11-20 being of average quality; 21-30 being of high quality; and 31-40 being of masterwork quality; some items require non-steel components to function ideally; which will be at the GM's discretion (for instance; it is unlikely you could make a very effective axe from solid steel (as the axe-head is usually the only steel component) since it would be too heavy and unwieldy and would likely give opponents bonuses to dodge and have a higher minimum strength requirement to use at all)
+Duration: permanent
+Range: touch
+Casting Time: 5 actions
+
+Transmutation of the Unstable Mind
+Cost per Rank: 7
+Casting Number: 29
+Minimum MP req: 3
+WP Cost: 13
+Reagents: a page from a book written by a madman (+5 to casting rolls)
+Effects: you seek to use the power of logic and transmutation to fix a broken mind; on a success; you remove 1d10 insanity points from your “patient”; but on a fail you add 1d10 insanity points instead; additionally; a maximum of 10 insanity points may be removed per caster MP; as some minds are just too far-gone to save; every 10 points removed this way can be used to reduce the DC on Willpower checks for a specific mental flaw by half; and the flaw can be bought off for half the listed xp value (rather than double the listed value; as normal); additionally; by peering into someone's mind this way; you gain a better understanding of them as a whole (equivalent to in-game knowledge of most of someone's character sheet; with contested willpower checks to resist revealing specific pieces of information); but may cause you to become a little unhinged yourself (roll a separate 1d10 every time you cast this spell; and on a 1 you gain 1d10 insanity points); spell may be cast multiple times but cannot remove more than the listed limits of insanity points per caster MP
+Duration: permanent
+Range: touch
+Casting Time: 1 hour - 10 minutes per caster MP
+
+Trial and Error
+Cost per Rank: 4
+Casting Number: 16
+Minimum MP req: 2
+WP Cost: 4
+Reagents: an empty glass vial (+5 to casting roll); a bone from a famous inventor (targets gain an additional re-roll and may choose which roll to keep)
+Effects: you use the magic of logic and ingenuity to guide the efforts of yourself and nearby allies; all affected gain a single re-roll that can be used for a skill check or to determine damage (for weapons or spells that deal a d10 of damage); but the second roll is final; spell stacks a number of times equal to the caster's MP; but re-rolls from this must be used separately to each other; and maximum once per round
+Duration: 30 minutes per caster MP
+Range: self
+Area of Effect: 10 meter radius; caster can specify who gains the re-rolls and who doesn't
+Casting Time: 3 actions
+
+Lore of Life:
+
+Awakening of the Wood
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: Trees have long and wrathful memories; needing only a little magical encouragement to lash out with root and branch.
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Cure Blight
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Mistress of the Marsh
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: so long as the target is within 20 meters of a river; stream; bog; lake; or waterway; the ground beneath and around him turns to a chest-height mire of mud; reducing max movement to ¼ normal
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Curse of Thorns
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Earth Gate
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Earth Blood
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: Tapping into the Winds of Magic; the Wizard creates a charm of rebirth that bestows great resilience upon himself and his companions. (give regeneration)
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Father of Thorns
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Fat of the Land
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Ferment
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Flesh of Clay
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Stoneskin
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: The Wizard transmutes his allies' mortal form to unyielding rock.  Bonus to toughness.
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Flesh to Stone
+Geyser
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Leaf Fall
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Regrowth
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: Invoking the name of Duthandor; lord of the ancient wildshrines; the Wizard infuses his fallen friend with fresh life; closing wounds; and healing broken bones with supernatural speed. Heal to full
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+River's Whisper
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Shield of Thorns
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects:  At the Wizard's command; crawling brambles burst from the ground forming a living barrier around his allies. (As wall of thorns)
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Spring Bloom
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Summer Heat
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+The Dwellers Below
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage: 
+Effects: Gnarled creatures emerge from the ground; their steely strong fingers tearing at their foes' flesh; clutching their limbs and dragging them down to who knows what fate.  
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Throne of Vines
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: The Wizard fashions for himself a walking throne of vine and bracken; to renew and strengthen his connection with the living world. Bonus to spellcasting.
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Track's Tale Told
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Tree-Dweller's Step
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Tree's Rustle
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Vital Growth
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Master of the Wood
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: all trees; branches; bushes and roots reach forth to rend the intruder apart limb from limb; entangle check against high dex; then successive strength checks to break free; large sustained damage throughout
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+
+The Howler Wind
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: create a powerful windstorm on a target location; nothing short of ballistae and heavier firearms can fire through it; if cast upon yourself; you and anyone within a 4m radius move as normal; but anything else within the affected radius moves at half normal movement speed
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+The Wilds Undisturbed
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Master of Stone
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: target stone or boulder or anything made of stone shatters and explodes outwards at the target; counts as a hit similar to a heavy calibre blunderbuss; can be used to ruin stone gates and walls as well
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+The Rain Lord
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: you create a freak rainstorm; soaking everyone to the bone within a large area; ballistic checks suffer a -5 due to the slippery water and soaked bow-strings and soggy feathers of the fletching; gunpowder weapons will not fire; and ammunition is soaked even if it was cleverly packed (the water supernaturally finds a way into every nook and crevace)
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Winter Frost
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Wood Shape
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Lore of the Heavens:
+
+Birdspeak
+Cost per Rank: 2
+Casting Number: 12
+Minimum MP req: 1
+WP Cost: 2
+Reagents: a lark's tongue (double duration
+Effects: You can speak and understand the language of birds; and ask them questions (though they do not have to answer or tell the truth)
+Duration: 1 minute/MP
+Range: self
+Casting Time: 2 actions
+
+
+The Comet of Casandora
+Cost per Rank: 7
+Casting Number: 42 
+Minimum MP req: 5
+WP Cost: 40+10/meteor
+Reagents: a 1lb nugget of starmetal (add 1d10 additional meteors; the caster may cause as many of the meteors to come down at once as they desire; without increasing the cost per meteor)
+Damage: 150/5m radius; 100/10m radius; 50/20m radius; 25/50m radius; amounts do not stack
+Effects: reaching high into the heavens with the utmost of focus and the strongest of will; you search for any nearby meteors and bring them through space and time into the heavens far above; then; by creating a vortex of azyr magic beneath them; you cast them downwards with at terminal velocity to rain destruction upon your foes; the caster summons forth a cluster of 1d10 meteors closer to the orbit of the planet; and once per turn may send one forth upon the enemy; location is semi-random (roll an intelligence check every time as you try to plot the descent path); each meteor does fucking huge damage and AOE explosive; sustained until meteors are used up; the meteors land (1d10)x(10meters) - (10meters) away from the desired target (they hit dead center on a 1; bad luck for whoever was there); this spell is incredibly powerful and disruptive to the winds of magic around it; it causes all additional spells cast within 5 kilometers of the zone to suffer a -5 to their casting rolls for the next day; and all mages nearby can roll sense magic to determine what has happened; the College reserves cruel and unusual punishments to those who use this kind of power frivolously 
+Duration: until the meteors have all been cast 
+Range: line of sight (targets further than 1km away require an intelligence check of 10x(number of kilometers away) to hit normally; otherwise each lands (number of kilometers away)x(1d10)x(10meters) - (10meters) away from the desired target
+Casting Time: 5 actions per meteor
+
+Celestial Shield
+Cost per Rank: 5
+Casting Number: 17
+Minimum MP req: 3 
+WP Cost: 12 + 2/round
+Reagents: a silver buckler; polished to a mirror sheen (projectiles and magic misses you 75-25; and the shield soaks 10 as well; including magic damage)
+Effects: you gather and spin a fractal web of the blue wind about you; creates a shield that scintillates and sparkles around you; treat it as temporary deflection 15; and a 50-50 chance for projectiles shot at you which would normally hit you to miss; also; casters attempting to target you with spells suffer a -10 to their rolls and also have a 50-50 chance of missing you unless the spell has an AOE effect; reduce any magic damage that would affect you by 15; spell does not stack on itself
+Duration: sustained
+Range: self
+Casting Time: 2 actions
+
+Chain Lighting
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 5
+WP Cost: 
+Reagents: 
+Damage:
+Effects: Lighting burst from the Wizard's hands and arcs across the battlefield leaping from foe to foe with cracking fury
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Clear Sky
+Cost per Rank: 2
+Casting Number: 9
+Minimum MP req: 1
+WP Cost: 3
+Reagents: vapour collected from a cloud (area stays cleared for 1 hour); bottled breath of an eagle (concentrate clouds in one area of the sky for a distance up to 10 kilomteters; automatically forms a rain-cloud)
+Effects: you focus your will to clear a single cloud from the sky; or if overcast then clear a 100 meter radius hole; exposing the sky; other clouds will continue to move as normal; and the area can be filled back in depending on wind conditions
+Range: Line of sight
+Casting Time: 2 actions
+
+Curse of the Long Fate
+Cost per Rank: 5
+Casting Number: 23
+Minimum MP req: 3
+WP Cost: 10
+Reagents: all the shards from a broken mirror (+10 to casting roll); the withered eyes of a traitor (effect is permanent)
+Effects: you draw away the positive potential fates from a target; leaving only the negative; the target person or creature suffers -10 from all rolls; and takes the worse of two rolls for determining head shots when they attack or are attacked; spell does not stack
+Duration: 1d10 hours 
+Range: 10m
+Casting Time: 3 actions
+
+Curse of the Midnight Wind
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: Only three words of this ancient tongue are known in modern days; three words to unleash a curse that was old when the world was young.  10's rolled are treated as 1's.
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Fate of Doom
+Cost per Rank: 6 
+Casting Number: 43
+Minimum MP req: 5
+WP Cost: 38
+Reagents: a noose from a hanged man (+10 to casting roll)
+Effects: you rend the fate of your enemy; twisting it apart and bringing it to a short and nasty end; requires a lock of hair from the target or a drop of blood; still in its liquid form; the target makes a Willpower check with DC 50 or loses all fate points and may never purchase more; even if they succeed; the price for purchasing more fate points is permanently tripled; and they lose half (rounded up) of their current fate points; fate points may not be used to counter this spell; in addition; the next critical hit that the target suffers has its critical value multiplied by 3 (so a critical value of x2 would be x6; etc); and all subsequent critical hits add +1 to the multiplier (so a critical value of x3 would be x4); the magic of this spell is so great that all mages within 5km notice a disturbance in the winds; and any Astromancers may roll to detect that this spell was cast; and who it was cast upon; the College of the Blue Wind teaches that this spell is to be reserved for only the most heinous of foes  
+Duration: permanent
+Range: 1 km of target
+Casting Time: 1 hour
+
+Feather-fall
+Cost per rank: 2
+Casting Number: 7
+Minimum MP req: 1
+WP Cost: 4
+Reagents: a tail-feather from a bird (direction of the fall becomes controlled; allowing for a glide in the desired direction; at 5 meters per turn).
+Effects: gathering a blanket of azyr wind beneath you; your fall is slowed down sufficiently that you takes no falling damage and fall at 10 meters per turn; others gripped by you or gripping you can extend this ability by 1 additional target per caster MP
+Casting time: 1/2 action
+Duration: 1 minute (can be dispelled before this)
+Range: self; touch
+
+Finding Divination
+Cost per Rank: 4
+Casting Number: 24
+Minimum MP req: 3
+WP Cost: 9
+Reagents: a chipped spyglass lens (+10 to casting roll); a compass needle (you can tell the distance to the desired object)
+Effects: by carefully inscribing an arcane equation of questioning onto the azyr wind; you may ask a single question of finding (such as; where is the nearest town or source of fresh water) including specific ones (such as; where is my wand; or where is the thief that stole my gold); you get a sense of direction as to where it is; although no idea of distance. In addition; you may only ask for a specific thing if you are familiar with it; i.e. have seen and handled it before
+Duration: 1 hour
+Range: 10 kilometers
+Casting Time: 2 actions
+
+First Portent of Amul
+Cost per Rank: 3
+Casting Number: 12
+Minimum MP req: 1
+WP Cost: 7
+Reagents: a loaded die (spell may be “saved” for an additional day); a piece of glass (+3 to casting roll)
+Effects: peering ahead of your path today; you forewarn yourself of the nearest dangerous fork in your path; you may re-roll any 1 die throughout the next 24 hours (effect does not stack); you must keep the second roll
+Duration: 24 hours
+Range: self
+Casting Time: 1 action
+
+Second Portent of Amul
+Cost per Rank: 4
+Casting Number: 16
+Minimum MP req: 2
+WP Cost: 10
+Reagents: a glass die; polished to a sheen (take the better of two rolls for the additional die)
+Effects: by peering into the strands of fate that weave about you it is possible to pull a single one free and then weave it back in to strengthen your fate when it is needed; you may roll an additional 1d10 once per day (it is not a re-roll; but rather adds to the roll); but you must keep the result; spell does not stack with itself
+Duration: 24 hours 
+Range: self
+Casting Time: 3 actions
+
+Third Portent of Amul
+Cost per Rank: 5
+Casting Number: 18
+Minimum MP req: 3
+WP Cost: 14
+Reagents: a gambler's spoils; minimum 10 gc value (luck may be re-rolled twice per day rather than once)
+Effects: analyzing your fortune based on the portents and omens about you or a companion; you focus on mitigating any unfortunate circumstances that might come your (or their) way; target may re-roll any 1 dice check for the duration of the spell
+Duration:  days equal to your magic potential
+Range: touch
+Casting Time: 1 minute
+
+Fortune's Renewal
+Cost per Rank: 4
+Casting Number: 16
+Minimum MP req: 2
+WP Cost: 8
+Reagents: a rabbit's foot (duration x 2 or add 1d10 to the number of re-rolls gained)
+Effects: by wrapping the azyr wind about you in a web of positive potential; you twist fate in your favour; take the better of two rolls once per round (including your defensive round); up to a maximum of 5 times; spell does not stack if cast again
+Duration: 10 minutes
+Range: touch
+Casting Time: 1 action
+
+Harmonic Convergence
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents:  and maybe location rolls
+Damage:
+Effects: Divining auspicious signs; the caster guides the minds of his fellow warriors.  Reroll attack rolls
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Iceshard Blizzard
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: Razor-sharp shards of ice hurl from the chill skies to blind and dishearten the foe.debuff dat shit
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Lens on the Sky
+Cost per Rank: 2
+Casting Number: 8
+Minimum MP req: 1
+WP Cost: 3
+Reagents: a pinch of clean sand (range x 2)
+Effects: you create a mobile circular patch on the air in front of you that acts as a telescope; increasing the range at which you can see accurately by up to 1 km/MP point
+Duration: 10 minutes
+Range: 1km/MP  point
+Casting Time: 1 action
+
+Lightning Bolt
+Cost per Rank: 4
+Casting Number: 14
+Minimum MP req: 2
+WP Cost: 5
+Reagents: a sliver from a tree struck by natural lightning (effect chains to 1d5 targets within 10 meters of the previous target); a copper rod (add 2d10 to damage as long as there is a storm cloud overhead)
+Damage: 15+2d10 damage
+Effects: you focus the azyr wind into a spear of ill-potential; manifesting as a powerful lance of magical lightning; your target must make a STR DC (15) check or be stunned for 1d5 rounds; strike is instant; and cannot be dodged
+Range: 100m; line of sight
+Casting Time: 2 actions
+
+Lightning Storm
+Cost per Rank: 5
+Casting Number: 21
+Minimum MP req: 3
+WP Cost: 13 + 5/additional round
+Reagents: a branch from a tree that survived a (natural) lightning strike (spell lasts an additional 1d10 rounds free of additional WP cost)
+Damage: 15+2d10 damage
+Effects: you conjure up an aethyric lightning storm; this storm can exist anywhere; including underground or in sewers; but does not count as a storm for the purposes of other spells that require one; each round; 1d5 bolts of lightning strike any targets within the AOE (all targets make a 1d10 roll; those with the lowest rolls are struck first); to prevent a target in the AOE from ever being struck; or to guarantee that they will be struck; expend 1 additional WP per target and make a separate willpower check (DC 20); stacking by 5 per additional target; targets that are struck make a STR DC (15) check to resist being stunned for 1d5 rounds; strikes are instant; and cannot be dodged
+Duration: sustained
+Range: line of sight; up to 100m
+Area of Effect: 30m radius
+Casting Time: 3 actions
+
+Omen
+Cost per Rank: 2
+Casting Number: 8
+Minimum MP req: 1
+WP Cost: 3
+Reagents: the liver of a small animal (+5 to casting roll)
+Effects: you can divine the future in a limited way by reading the stars; you may attempt to find out if the timing for an action you specify is favourable or unfavourable; GM will roll an intelligence check on you; with DC varying depending on the question; if it is a success; your information is accurate; if not; you are given information anyways; but it is inaccurate in spite of your belief otherwise
+Casting Time: 1 action
+
+Polish; Clean; and Gleam
+Cost per Rank: 2
+Casting Number: 5
+Minimum MP req: 1
+WP Cost: 2
+Reagents: a drop of oil (effect lasts and repels dirt for 1 week)
+Effects: with a wave of the hand and a flash of light; you remove any tarnishing; dirt; or smudges from any equipment related to perception you are holding (lenses; magnifying glasses; telescopes; glasses); limit one target per spell
+Duration: 1 hour
+Range: touch
+Casting Time: 1 action
+
+Portent of Far
+Cost per Rank: 4
+Casting Number: 19 
+Minimum MP req: 3
+WP Cost: 9
+Reagents: a scrap from a written prophecy that has come true (2d10 targets; effects may be combined onto a single target)
+Effects: you guide the minds of your followers by reading the signs and portents fate has scattered about you; 1d10 targets (including yourself) may re-roll a single 1 over the course of the next day; stacks once per 2 MP points of the caster
+Duration: 24 hours
+Range: line of sight
+Casting Time: 3 actions
+
+Premonition
+Cost per Rank: 3
+Casting Number: 11 
+Minimum MP req: 2 
+WP Cost: 4
+Reagents: ash from a single burnt rabbit's foot (apply the re-roll to any skill-check); a successful gambler's lucky charm (increase the casting number by +10; apply the check to the lucky charm; can be used once per day by whoever wears it; a number of times equal to 1d5x your magic potential; failures generate “unlucky charms” which cause bad luck once per day at the GM's discretion; generally minor in nature; bad luck is permanent; while good luck is fleeting)
+Effects: by sensing any sharp twists in the path ahead; you gain foreknowledge of a mistake you might make; re-roll any 1 skill check over the course of the next day so long as it falls under the intelligence tree; but you must keep the second result; spell stacks up to 3 times
+Duration: 24 hours
+Range: self
+Casting Time: 3 actions
+
+Project Spirit
+Cost per Rank: 4
+Casting Number: 16
+Minimum MP req: 2
+WP Cost: 8
+Reagents: a pinch of horseradish (+5 to casting roll)
+Effects: you meditate and project your spirit. You are invisible and inaudible; but can walk around and see and hear as normal. You cannot fly or phase through objects; and can only fit through openings you could normally in your mortal form. You can also see spirits and invisible opponents; but they can in some cases also see you. You can be harmed by magical or psychic attacks while in this state. You must return to your body by the end of the duration or gain 1d10 insanity points and remain unconscious for 1 hour.
+Duration: 1 hour
+Range: self
+Casting Time: 2 actions
+
+Sign in the Stars
+Cost per Rank: 5
+Casting Number: 27
+Minimum MP req: 4
+WP Cost: 15
+Reagents: a vial of ink made from eagle's blood (+10 to casting roll and +10 to intelligence checks made by other Astromancers to read the sign)
+Effects: a simple message can be sent by inscribing a message upon the heavens; if you discuss the message with the intended recipient beforehand; more complex messages can be sent (if the stars form a triangle around Manns'lieb; I have failed; 1 star if by land; 2 if by sea; etc) in which case the DC of the spell is set at 15 for the one who is reading it; and cannot be read by anyone else not “in the know”; simple messages revolve around knowledge of portents and the stars; and only very general messages can be sent this way (orcs will attack Talabecland at dawn; the hour of midnight heralds doom for the servants of sigmar; a storm approaches Marienburg; etc.); and require a base DC of 25 to interpret; increased at the GM's discretion; rolls to “read” the stars use the reader's academics score; and mages with “sign in the stars” may add their ranks in the spell onto the roll; inscribing signs in the stars is reserved only for masters; and only to be used when the need is great; magisters who dabble in matters above them or “cry wolf” can expect swift punishment to come their way from their superiors 
+Duration: 1d10 days
+Area of Effect: anywhere within the same general latitude
+Casting Time: 5 minutes
+
+Starshine
+Cost per Rank: 4
+Casting Number: 26
+Minimum MP req: 3
+WP Cost: 11
+Reagents: a vial of silver dust (the light follows the caster; regardless if they go underground or inside a building)
+Effects: the area around the caster is illuminated by powerful magical starlight; removing all shadows; illuminating all dark areas; and revealing any spirits; invisible beings; and daemonic entities
+Duration: 1d10 minutes
+Range: self (stationary once cast)
+Area of Effect: 25m radius
+Casting Time: 2 actions
+
+Uranon's Thunderbolt
+Cost per Rank: 6
+Casting Number: 33
+Minimum MP req: 4
+WP Cost: 14
+Reagents: a spiral of copper braided with a spiral of gold minimum 1 cm thick and 50cm long (lightning forks to all 10+1d10 targets within 20m of each other; double initial AOE radius and damage)
+Damage: 40+4d10
+Effects: requires a storm cloud overhead; you gather together the combined potential of the stormcloud above; focusing it into a ball of pure energy and guiding it down a spiral pathway of the azyr wind; call down a massive lightning ball upon your foes; forking out to anyone unfortunate enough to be nearby; forks to 1d10 targets within the radius of the initial blast; strength check DC 40 for stunning for 1d10 rounds
+Range: line of sight; 150m
+Area of Effect: 10m radius
+Casting Time: 5 actions
+
+ 
+
+Uranon's Premonition 
+Cost per Rank: 4 
+Casting Number: 19
+Minimum MP req: 3
+WP Cost: 10
+Reagents: 3 ounces of quicksilver; poured into a pool on a flat surface (your character will get a sudden warning as his nose begins to bleed drips of mercury; 1 round per caster MP before the premonition strikes); a magnifying glass and a mirror (used together at once; + 10 to casting roll)
+Effects: you enter a deep trance; and dream of an important event fated to strike you or someone you specify sometime within the next 24 hours; you see through your own eyes at a future time observing this event; for 3 seconds per MP point; once seen; the future becomes mutable
+Range: self
+Casting Time: 5 minutes
+
+Wind Blast
+Cost per Rank: 3
+Casting Number: 18
+Minimum MP req: 2
+WP Cost: 5
+Reagents: an animal's lungs (DC of check is increased to 35
+Effects: you call down raging winds to blow down upon an area; causing anyone there  to make a DC 20 check or be blown over; in which case they take 1d10 falling damage and are prone for the next round; if they succeed the DC check they are still unable to move faster than ¼ normal movement rate
+Duration: 1 round
+Range: 50 meters; line of sight
+Area of Effect:25 meter radius
+Casting Time: 2 actions
+
+Wings of Heaven
+Cost per Rank: 5
+Casting Number: 25
+Minimum MP req: 4
+WP Cost: 5/minute
+Reagents: the wings of a white owl (speed at which you move is multiplied by 2; and additional targets equal to your MP may be carried without additional checks)
+Effects: you are born aloft on powerful winds; ranged attacks made to hit you miss on a 50-50 basis; and you may fly a distance per round equal to 2x your (MP+Willpower+ranks in “wings of heaven”); carrying anything your own weight or heavier requires a separate check; and increases the casting time by 1 action per additional item or character being carried
+Duration: sustained
+Range: self + touch (anything else going with you must be gripped by or gripping you)
+Casting Time: 3 actions
+
+Lore of Shadow:
+
+Bewilder
+Cost per Rank: 4
+Casting Number: 14
+Minimum MP req: 2
+WP Cost: 4
+Reagents: a flask containing alcohol stolen from a drunkard (+5 to casting roll); the left eye of an idiot (double duration; +10 to contested will checks; +10 to casting roll)
+Effects: you wrap an enemy's mind in a mesh of Ulgu; distorting his perception and temporarily warping his perception of reality; make a contested willpower check with the target; using your MP and ranks in the spell as modifiers. On a success; the target is bewildered and befuddled; and suffers -10 to observation checks and must make a successful intelligence check with DC equal to the casting number you rolled at the beginning of each round for the duration of the spell; if they fail; they roll 1d10; on a 1-2 they curl up in a ball and start crying; and gain 1d5 insanity points; on a 3-4 they attack the nearest target; regardless of if they are friend or foe; on a 5-6 they run in a random direction; on a 7-8 they stand around blinking stupidly and take no more actions for that turn; on a 9-10 they may act normally except they can only use half the number of actions they would otherwise have. This effect carries over to their defensive actions as well.
+Duration: rounds equal to 1d5 + caster MP
+Range: 20m; line of sight
+Casting Time: 3 actions
+ 
+Burning Shadows
+Cost per Rank: 4
+Casting Number: 15
+Minimum MP req: 2
+WP Cost: 3
+Reagents: ash from a funeral pyre (+5 to casting roll); a dead spider wrapped up in its own web (enemies are webbed by thick grey-black strands of solidified shadow; and can only use half their movement speed and suffer -5 to all combat checks); a dose of Black Lotus poison harvested in the shade (targets must roll a strength check and a will check each with DC 30; if they fail the strength check; they take an additional 1d10 damage per round and are paralyzed; if they fail the will check they take 1d10 insanity points per round and are paralyzed; if they fail both; they are paralyzed and the duration of the spell is doubled)
+Damage: 10 + 1d10 per round
+Effects: the shadows around you come alive; clinging on to your enemies and burning them like acid; damage ignores armor; max targets equal to 2x your MP; targets are chosen by the caster; if targets leave the AOE; they do not continue taking damage
+Duration: rounds equal to 3 + caster MP
+Range: self
+Area of Effect: radius equal to 5 x caster MP in meters
+Casting Time: 2 actions
+ 
+Creeping Death
+Cost per Rank: 6
+Casting Number: 29
+Minimum MP req: 4
+WP Cost: 12
+Reagents: a jar full of leeches (+5 to casting roll; double bleeding damage); a leech fat with blood from a gluttonous person (if the target dies from this spell; they explode outwards and rain wriggling shadows on those around them; dealing 5 + 1d10 damage to all targets within a 5m radius)
+Damage: 25 + 1d10 per round
+Effects: the wizard stretches out his hand; and the shadow beneath it grows and bursts forth with dark wriggling things that spread forth in a torrent washing over enemies; ripping and tearing at them; ignores armor; and damage from this causes bleeding
+Duration: rounds equal to the caster`s MPx2
+Range: 30m; line of sight
+Area of Effect: 30 degree cone from the caster
+Casting Time: 4 actions
+
+Curse of the Stolen Shadow
+Cost per Rank: 3
+Casting Number: 18
+Minimum MP req: 2
+WP Cost: 10
+Reagents: a glass bottle (required)
+Effects: you trick an enemy`s shadow to leave them; trapping it in a bottle for your own use; make a contested willpower check with the target; using your MP and spell ranks as modifiers; on a success; their shadow wanders over to you and is trapped within your bottle; for your own later use (can be consumed as a reagent for Lore of Shadow spells; giving them a +5 to their casting roll; some spells will have unique effects based on the use of an entrapped shadow as a reagent); your opponent is left missing his shadow; which if noticed is often considered proof against him of consorting with daemons or possibly being a vampire.
+Duration: permanent
+Range: 5m; line of sight
+Casting Time: 4 actions
+ 
+Crown of Taidron
+Cost per Rank: 6
+Casting Number: 31
+Minimum MP req: 4
+WP Cost: 16; then 8/round after the first round
+Reagents: a fresh whole octopus (+5 to casting roll; opponents may be thrown and dashed against walls; giving the spell 10 + 2d10 damage per round)
+Effects: you summon up an aura of ectoplasmic tendrils writhing over your head; which lash out and grasp onto anything nearby; immobilizing and suffocating them; make a competitive willpower check against your opponents with them using the higher of their strength or willpower; and you using your MP and spell ranks as additional modifiers; on a fail; they physically or mentally struggle free of the phantasm gripping them; on a success; you immobilize them and begin suffocating them; causing them to fall unconscious in rounds equal to their strength; and to die in double that number of rounds if the spell is maintained on them; in addition; all opponents struck by tendrils of the Crown of Taidron must make a willpower check with DC35 to resist fear; on a fail; they also gain 1d5 insanity points in addition to being forced to attempt to flee; immobilized enemies may test again to break free of the Crown of Taidron at the beginning of each round; but suffer a stacking -5 penalty each time they do so
+Duration: maintained
+Range: self
+Area of Effect: 30 meter radius
+Casting Time: 2 actions
+ 
+Cloak Activity
+Cost per Rank: 3
+Casting Number: 13
+Minimum MP req: 1
+WP Cost: 5
+Reagents: a sketch of the action you wish to perform (+5 to casting roll); a black silk blindfold (opponents may not roll intelligence checks to see through the illusion)
+Effects: you create a short-term illusion that causes you to appear to be performing one action when in fact you are performing a completely different one; for example; you might be reading a book while you are in fact actually punching another character in the face; characters that you are physically interacting with (pickpocketing; attacking) or casting a spell upon may roll an intelligence check (plus MP if mage) against your casting roll to see through the illusion with DC equal to your casting roll
+Duration: 1 round; or until the action is completed (for example; if you were attacking someone; you could only swing once before the illusion broke; even if you have 4-5 attacks per round); can be delayed up to a number of rounds equal to the caster's MP
+Range: self
+Casting Time: 1 action
+ 
+Doppelganger
+Cost per Rank: 4
+Casting Number: 18
+Minimum MP req: 2
+WP Cost: 6
+Reagents: a lock of hair or drop of blood from the race you are attempting to impersonate (cannot be your own; for human)
+Effects: you wrap your features in illusion; allowing you to look like any other race; with any equipment and appearance you can imagine
+Duration: 1 min per caster MP
+Range: self
+Casting Time: 3 actions
+ 
+Dread Aspect
+Cost per Rank: 4
+Casting Number: 25
+Minimum MP req: 3
+WP Cost: 8
+Reagents: a shred of cloth from the clothing of a Wight (+5 to casting roll); a tooth from a monstrous creature (+10 to fear check DC)
+Effects: you wreathe yourself in shadow and illusion; assuming a horrifying form straight out of the nightmares of your opponents; you cause supernatural Terror to all who behold you; and require them to make a fear check with DC30 or roll for fear effects; and gain 1d10 inanity points
+Duration: 1 min per caster MP; maintained after that at 5WP per min
+Range: self
+Area of Effect: line of sight viewing you
+Casting Time: 3 actions
+ 
+Shades of Death
+Cost per Rank: 3
+Casting Number: 17
+Minimum MP req: 2
+WP Cost: 5
+Reagents: a withered old battle standard (+5 to casting roll; +5 to fear check DC)
+Effects: You cause your opponents to see the men around them wearing the aspects of dead and decaying friends; brothers and comrades superimposed over the actual appearances of those the spell is cast upon; all who view someone with Shades of Death cast upon them must make a willpower check with DC20 or suffer the effects of Fear. The caster nominates 1d10 targets within his line of sight to wear the spell (they need not be willing or aware of this).
+Duration: minutes equal to caster MP; sustained thereafter at 1WP per target per minute
+Range: 40 meters; line of sight
+Area of Effect: 20 meter radius around the targeted zone
+Casting Time: 2 actions
+ 
+Unseen Lurker
+Cost per Rank: 5
+Casting Number: 26
+Minimum MP req: 3
+WP Cost: 12
+Reagents: the knife of a notorious murderer; still stained with the blood of his last victim (+5 to casting roll; +1d10 damage per round); a hair from the desired target (the Unseen Lurker will attack that target specifically; and the fog will follow them at 10m per round); a pair of razor sharp scythe blades inscribed with Aethyric runes of Ulgu (+5 to casting roll; attacks gain +10 base damage and are AOE/linear; with a range equivalent to the length of the AOE and a width equal to 5 meters)
+Damage: 2d10 per round
+Effects: you conjure forth a thick impenetrable fog which reduces visibility to 1 meter; and create a malign presence therein; once per round; it attacks a random enemy within the AOE; ignoring armor and causing bleeding
+Duration: rounds equal to caster MP; then maintained at 4WP per round
+Range: 50 meters; line of sight
+Area of Effect: 25m radius
+Casting Time: 3 actions
+ 
+Eye of the Beholder
+Cost per Rank: 2
+Casting Number: 9
+Minimum MP req: 1
+WP Cost: 2
+Reagents: an eye from any monstrous creature (+10 to casting roll; duration becomes days; not hours)
+Effects: you cause any item you touch to appear either worthless or valuable; for example; worthless items would appear warped; pitted; rusted; and cracked; whereas valuable items would appear shiny; polished; perfectly formed; and gilded with small previous stones or gems inserted precisely where they would look best
+Duration: hours equal to caster MP
+Range: touch
+Casting Time: 1 action
+ 
+Illusion
+Cost per Rank: 7
+Casting Number: 27
+Minimum MP req: 3
+WP Cost: 20
+Reagents: 4 braziers emitting smoke; and 4 mirrors (+5 to casting roll; must be set up at the perimeters of the illusion; extend duration to days rather than hours); a crystal prism (+5 to casting roll); a pair of velvet gloves dusted with warpstone (the illusion also feels like the real thing; blades that cut will cause pain; fires will burn; and food swallowed will rest in the belly; one can die in this illusion if they fail a contested willpower check with the caster; using the caster's MP and spell ranks as additional modifiers)
+Effects: arranging skeins of Ulgu artfully about an area and focusing with great intent and willpower; a Shadowmancer can create a masterful illusion that looks; smells; and sounds just like the real thing; however; it does not feel different than anything already present in the area (for example; an illusory door that is really a rock wall will feel like a rock wall); and illusory objects cannot be grasped but rather will allow the subject's hand to pass through them. Subjects with reason to suspect that the illusion around them is really an illusion may roll a willpower check to see through it; which must beat the casting roll of the illusion. This does not dispel the illusion; but rather simply allows them to see reality behind it; causing the illusion to become transparent to them.
+Duration: treat as maintained for the purposes of casting other spells while the illusion is in effect; lasts for hours equal to the caster's MP; maintained afterwards at 10WP/hour
+Range: line of sight to cast (but not to maintain); 20m
+Area of Effect: 10m radius/caster MP
+Casting Time: 5 minutes
+ 
+Pit of Shades
+Cost per Rank: 8
+Casting Number: 45
+Minimum MP req: 5
+WP Cost: 50
+Reagents: earth gathered from under an aethyric portal (+10 to casting roll); Crystal Mist Gem (+20 to casting roll; double radius of the AOE)
+Effects: the earth opens beneath the feet of the enemy and their terrified warriors fall screaming into a bottomless pit filled with shadow and the incessant wailing of “Those who dwell below”; all targets that cannot fly (and aren't larger than the hole and thus wouldn't fit in the pit) must make an initiative check to flee the rapidly expanding hole (sacrificing all of their actions for the next round to do so) with DC30 (not including modifiers from weapons) or fall into the Aethyric rent conjured forth by the Shadowmancer and be doomed to fall endlessly through the blackness.
+Duration: 1 round
+Range: 80m; line of sight
+Area of Effect: 10m radius
+Casting Time: 5 actions
+ 
+Melkoth's Mystifying Miasma
+Cost per Rank: 4
+Casting Number: 22
+Minimum MP req: 3
+WP Cost: 8
+Reagents: bottled swamp gas (the fog can be ignited; which ends the spell with a bang dealing 3d10 damage to all within and making everyone check for ignite); bones harvested from a bog body (+10 to casting roll; targets must make a willpower check every round to move at all with DC20); an insect trapped in amber (+5 to casting roll; targets must make a willpower check with DC20 or be paralyzed for 1d10 rounds)
+Effects: The Wizard creates a numbing fog that causes his foolish for to listly stagger and stumble. Visibility is reduced to 10 meters; and all targets inside must make a strength check with DC25 (stacking by 5 per round) or lose half their actions and be reduced to a quarter of their movement.
+Duration: maintained at 4WP/round
+Range: line of sight; 50m
+Area of Effect: 15m radius
+Casting Time: 2 actions
+ 
+Mindhole
+Cost per Rank: 3
+Casting Number: 17
+Minimum MP req: 2
+WP Cost: 12
+Reagents: a whole intact fingernail of the person to be forgotten (+5 to contested will checks; person to be forgotten can be other than yourself; it becomes the person who is to be forgotten)
+Effects: you cause one character to wholly forget you exist; they forget everything about you; including conversations; your appearance; and anything you've ever said or done; roll a contested willpower check against the target; using your MP and spell ranks as modifiers; depending on your significance to the target and how well they know you; they may be granted a modifier to resist (for example; a mother forgetting her child would gain a +30 to resist; two close friends who've known each other for years would get a +20 to resist; a bounty hunter who has been chasing you all over the empire would gain a +10 to resist); on a success; the spell takes effect; on a fail; it does not; and you both gain 1d10 insanity points; the target will also become aware of what you tried to do
+Duration: permanent
+Range: touch
+Casting Time: 4 actions
+ 
+Mockery of Death
+Cost per Rank: 4
+Casting Number: 19
+Minimum MP req: 2
+WP Cost: 10
+Reagents: a shroud from a corpse buried for at least a year (+10 to casting roll)
+Effects: you cause a character to appear for all intents and purposes to be dead; their skin is cold and clammy; their body stiff with rigor mortis and they will not appear to be breathing; and they cannot move or see (their eyes close); but they can still hear; smell; and feel as normal; they also still need to breathe; eat; and drink (they will likely be very thirsty and hungry when they “awaken”); the character cannot move in any way (aside to breathe; which will be concealed by illusion); and cannot speak; if this is cast on an unwilling target; they get a contested willpower roll against you with double their normal willpower base vs your willpower plus MP and spell ranks; targets can last days equal to their strength before having to roll strength checks for deprivation (strength DC equal to the number of days it has been since they last had sustenance); on a fail; they die
+Duration: days equal to your MP; or until released by the caster (touch spell; or activated mentally if the target is the caster)
+Range: touch
+Casting Time: 6 actions
+ 
+Mutable Visage
+Cost per Rank: 2
+Casting Number: 9
+Minimum MP req: 1
+WP Cost: 4
+Reagents: a pinch of high quality cosmetics (+3/-3 to social checks or change minutes to hours)
+Effects: you alter the appearance of a target; making them appear hideous or incredibly good-looking; this has a magical affect on how well received and liked (or hated and feared) they are; +5/-5 to charisma checks for the target; depending on the check (hideous gives bonuses to intimidate; good-looking gives bonuses to all other social checks)
+Duration: minutes equal to caster's MP + 5
+Range: touch
+Casting Time: 1 action
+ 
+Okkam's Mindrazor
+Cost per Rank: 6
+Casting Number: 32
+Minimum MP req: 4
+WP Cost: 10/weapon
+Reagents: a high quality weapon of the desired type (+5 to casting roll; one weapon's duration is extended to hours rather than minutes); a dose of any hallucinogenic substance (+10 to willpower DC to resist the weapons)
+Damage: special (see effects)
+Effects: The Wizard summons phantasmal weapons for his allies that shred the folds of consciousness and reason. Victims of this mindrazor believe themselves slain; so they die. The weapons appear and feel real; save for an eerie smokey miasma that clings to them; and the fact that they have no visible effect on the environment; they phase through armor and deal triple their total normal damage for the weapon type. The caster must have at least 1 point in a weapon skill for the type of weapon he wishes to summon; and likewise the wielders must have at least 1 point in the weapon type they are wielding; however; they are treated as masters (skill base of 10) unless they are already better than masters with the weapon regardless. Any opponents struck by these weapons must make a willpower check with DC30 or take full damage as specified by the spell; and suffer wounds as normal; they can die from these wounds. If they succeed the willpower check; they are unharmed. If they fail the willpower check by a difference of 20 or greater; they die instantly from any strikes from the mindrazor. 
+Duration: caster MP x 2 in minutes
+Range: line of sight; 10m
+Casting Time: 4 actions
+ 
+Pall of Darkness
+Cost per Rank: 3
+Casting Number: 15
+Minimum MP req: 2
+WP Cost: 5
+Reagents: the eyes of a newt (the caster can see and act normally)
+Effects: the caster creates a massive blanket of disorienting magical darkness that is completely impenetrable by vision; even to characters with dark-vision. All characters within it are reduced to maximum half a physical action per round unless they roll a successful willpower check (DC 20) in which case they can use their normal number of actions. Regardless of success or failure on the willpower roll; the characters still can't see anything; although they can hear and feel their environment fine.
+Duration: 5 rounds
+Range: self
+Area of Effect: 30m radius; does not follow the caster like an aura; but remains where it was casted
+Casting Time: 2 actions
+ 
+Shadowcloak
+Cost per Rank: 3
+Casting Number: 10
+Minimum MP req: 1
+WP Cost: 1/min
+Reagents: a lump of charcoal (+5 to casting roll)
+Effects: your form becomes faded and blurry; and dapples to match your background colors; you are magically camouflaged; and gain +10 to stealth checks vs visual observation
+Duration: sustained
+Range: self
+Casting Time: 1 action
+ 
+Shadow Knives
+Cost per Rank: 4
+Casting Number: 15
+Minimum MP req: 2
+WP Cost: 2 per knife
+Reagents: a high quality throwing dagger (+5 base damage; +5 to casting roll)
+Damage: 1d10 each
+Effects: you form knife-like shards of Ulgu and hurl them at your enemies; these knives are incorporeal but their effect on flesh is very real; they ignore armor but deal bleeding damage as normal; roll location percentile as normal for these knives as well; you may throw up to 2 knives per caster MP at any targets in your line of sight; they seek the target and phase through obstructions; and move like a blur; making them impossible to dodge
+Range: line of sight; 10m/caster MP
+Casting Time: 2 actions
+ 
+Shadow of Death
+Cost per Rank: 4
+Casting Number: 17
+Minimum MP req: 2
+WP Cost: 5
+Reagents: a shroud from a Wight (you cause terror instead of fear; and targets that fail roll 1d10 for insanity points; DC to resist terror is doubled from what it normally would be)
+Effects: your appearance takes on a fearsome and sinister aspect; making you appear fearsome and deadly to all who behold you; you cause Fear with a willpower DC of 20 to resist
+Duration: minutes equal to caster MP; then sustained at 3WP per minute
+Range: self
+Casting Time: 2 actions
+ 
+Steed of Shadows
+Cost per Rank: 3
+Casting Number: 14
+Minimum MP req: 2
+WP Cost: 5
+Reagents: a high quality horse shoe (your steed moves as fast as the finest horses in the land; equivalent to a purebred Brettonian courser; you are capable of outracing almost anyone); clippings from a faithful steed's hoof (+5 to casting roll)
+Effects: you summon a shadowy; insubstantial looking horse wreathed in mist and fog; it is solid to the touch; but utterly silent (it doesn't even have hoofbeats); and can be harmed like a normal steed; save that it's blood never hits the ground; it is completely under the caster's control and requires no ride skill or handle animal checks
+Duration: hours equal to caster's MP
+Range: self
+Casting Time: 4 actions
+ 
+Greater Shadowsteed
+Cost per Rank: 6
+Casting Number: 31
+Minimum MP req: 4
+WP Cost: 25
+Reagents: a bat's wings (+5 to fear check DC; +5 to casting roll); 3 feathers from the wingtips of an eagle (+10 to casting roll; double movement of the Greater Shadowsteed); a manticore's claw (the shadowsteed can now attack; with 4 damage 30 attacks per round with a base skill of 20; ignores armor)
+Effects: a winged steed wreathed in shadows is created; in the desired form of the caster (up to the size of a wyvern); it can appear either underneath the caster or an ally or opponent (and can then be used to carry him high up into the air and dump him); but is under the control of the caster. It is impervious to attacks; which simply phase through it; when 50m or further away; the steed and its caster (if he is mounted) are treated as invisible; if they are closer than 50m; the steed causes a fear check with DC25 to all enemies who behold it; base movement score of the Greater Shadowsteed is 50
+Duration: sustained at 10WP/hour
+Range: 20m; line of sight
+Casting Time: 4 actions
+ 
+Shroud of Invisibility
+Cost per Rank: 6
+Casting Number: 23
+Minimum MP req: 3
+WP Cost: 5
+Reagents: a fresh cataract (increase duration from rounds to minutes); a bottle full of smoke (+5 to casting roll); a body-sized mirror (the mirror will crack; but all who could see their reflection within it will become invisible; their invisibility will last as long as the caster's; at no additional cost; however; mirrors will reveal the reflections of those made invisible this way)
+Effects: wrapping a cloak of Ulgu around him; the caster becomes invisible to the eye; the caster and all he is wearing or carrying (so long as it is not another person) vanish from sight; though sound and smell are not dampened; while invisible; the caster can move at max half their movement speed; and any sudden or aggressive moves; or casting any magic will require the casting roll to be re-rolled with a stacking DC increase of +10 for every attempt made while under the shroud of invisibility; objects can be manipulated as normal provided they are handled carefully and slowly (for example; doorknobs can be turned or opened; but catching a falling object would likely break the shroud)
+Duration: rounds equal to caster MPx2; then maintained at 2WP/round
+Range: self
+Casting Time: 2 actions
+ 
+Substance of Shadow
+Cost per Rank: 5
+Casting Number: 26
+Minimum MP req: 3
+WP Cost: 25
+Reagents: a shadow encompassing the target fully (required; mere darkness does not suffice for this; but rather a light source must cast a distinct shadow which is of sufficient size to fully cloak the object); a vial of blood spilled under a shadow (+5 to casting roll); an item lost for at least a year; then found (duration becomes equal to one year or until dispelled even if the shadow flickers or is gone; provided the object or person does not move)
+Effects: the caster or a distinct object and all it contains or a person (both must be 200lbs or smaller) become invisible and silent and partially insubstantial; they can still be affected by magic; but mundane attacks and objects phase through them harmlessly; though they can still manipulate the physical world as normal; casting while under the effects of Substance of Shadow requires the casting number to be re-rolled. The spell lasts indefinitely so long as the target remains fully cloaked in the shadow; if the shadow is removed (such as by putting out the light source or introducing a new one that illuminates the shadow); the spell ends
+Duration: see effects
+Range: 30m; line of sight
+Area of Effect: see reagents and effects
+Casting Time: 3 actions
+ 
+Take No Heed
+Cost per Rank: 2
+Casting Number: 10
+Minimum MP req: 1
+WP Cost: 2
+Reagents: a pinch of nothing in particular (cannot be air; +5 to casting roll)
+Effects: you become hard to approach and notice; and though people can see you perfectly fine they tend not to remember anything about you or what you might have done; people must make an opposed willpower check (using your MP and spell ranks as modifiers) to approach you or talk to you unless approached or spoken to first; they must make the same test again to remember anything about you or what you have done after you leave; the spell is broken by any drastic actions such as attacking; loud bangs or noises or explosions (must be louder than ambient noise; such as people laughing or shouting in a bar would not break the spell but someone discharging a firearm or attacking someone would) that happen in the AOE
+Duration: minutes equal to caster's MP
+Range: self
+Area of Effect: 10m per caster MP
+Casting Time: 2 actions
+ 
+The Penumbral Pendulum
+Cost per Rank: 6
+Casting Number: 33
+Minimum MP req: 4
+WP Cost: 15
+Reagents: an executioner's axe (the head will do; +10 to casting roll)
+Damage: 150
+Effects: A ghostly razor-edged pendulum materialized in the air above the Wizard; on his single word of command; the pendulum swings towards the enemy; picking up speed as it does so.  Is the pendulum real enough to kill or is it just a conjurer's trick? Only a fool would stand in its path to find out. Enemies who make a successful observe check to see the the pendulum swinging their way (DC up to the GM) must make an initiative check with DC25 (not including bonuses from weapons) to get out of the way; spending their next 2 actions doing so; if they fail to do so; they roll a 1d10; on a 1-5 they take the spell's damage as normal; which ignores armor; on a 6-10 they are unharmed.
+Range: line of sight; 60m
+Area of Effect: 10m line; angle of which is determined by the caster
+Casting Time: 4 actions
+ 
+Throttling
+Cost per Rank: 4
+Casting Number: 15
+Minimum MP req: 2
+WP Cost: 4
+Reagents: a hangman's noose used to hang someone (+5 to casting roll); a high quality garrotte (double the contested willpower check)
+Effects: inky ropes of darkness encircle and strange an opponent around the neck; he must roll his strength vs. your willpower; including spell ranks and MP as modifiers; to keep from passing out; once he passes out; casting the spell on him again will kill him; the targeted opponent will pass out within a number of consecutive successes equal to his strength score
+Duration: rounds equal to the caster's MP
+Range: 5 meters
+Casting Time: 3 actions
+ 
+Universal Confusion
+Cost per Rank: 7
+Casting Number: 31
+Minimum MP req: 4
+WP Cost: 25
+Reagents: the eyes of a chimaera (+15 to casting roll; +10 to willpower DC); the shadow of a madman (+5 to casting roll; +5 to willpower DC; triple duration of Bewilder effects)
+Effects: the caster distorts perception and reality in a miasma of madness; ripping away the sanity of his opponents; at the beginning of each round; all opponents in the AOE must make a willpower check with DC30 or gain 1d10 insanity points and suffer the effects of Bewilder
+Duration: 5 + 1d10 rounds
+Range: 50m; line of sight
+Area of Effect: 25m radius
+Casting Time: 5 actions
+ 
+Form of Shadow:
+Cost per Rank: 3
+Casting Number: 9
+Minimum MP req: 1
+WP Cost: 3/round
+Reagents: a vial of smoke (choose 1: maximum speed is now your normal sprint; or WP Cost is 1/round); a pinch of sulfur (+5 to casting roll)
+Effects: Your form; and any clothing you are wearing/equipment you are carrying (not standing next to; or "in your possession") disappear; leaving only your shadow. Objects can be manipulated as normal; sound is not dampened; casting spells or attacking targets breaks the spell. Movement is limited to half of max.
+Duration: maintained
+Casting time: 1 action
+ 
+Concealing Flesh
+Cost per Rank: 2
+Casting Number: 11
+Minimum MP req: 1
+WP Cost: 5
+Reagents: the object itself (required); a sliver of metal dipped in ink (+10 to casting roll); a piece of skin with a tattoo on it (object may be of any size; so long as the caster can move it; i.e. a cannon on wheels)
+Effects: a small object (must be able to theoretically fit inside body in it's current shape; i.e. not a full suit of armor) is absorbed into your body; leaving only a tattoo of it but nothing else. You function normally while it is there; regardless of if it is poisonous or magical; except if it would normally be causing mutation points i.e. warpstone or a chaos artifact; in which case you suffer half as much as you normally would; to expel; you must touch the tattoo with a finger; objects will expel themselves after the duration ends; often in a painful way unless removed by being touched on their tattoo by the carrier
+Duration: 1 day per caster MP
+Range: touch
+Casting Time: 5 actions
+
+Lore of Death
+
+Acceptance of Fate
+Cost per Rank: 3
+Casting Number: 14
+Minimum MP req: 1
+WP Cost: 4
+Reagents: a nail from a coffin; free of tarnish or rust (+10 to willpower checks)
+Effects: you draw the essence of Shyish through yourselves and your companions; ensuring them to the fear of death as they unconsciously accept its inevitability; you and 1 additional character per caster MP gain +10 to willpower rolls against fear.
+Duration: 5 minutes per caster MP; sustained thereafter at 1WP/target per minute
+Range: self
+Area of Effect: 15m radius
+Casting Time: 1 action
+
+Aspect of the Dreadknight
+Cost per Rank: 4
+Casting Number: 19
+Minimum MP req: 2
+WP Cost: 6
+Reagents: a shard from the helm of a cruel or bloodthirsty warrior (+5 to casting roll; 2x duration); a murderer's jawbone (+5 to willpower DC to resist effects)
+Effects: An invisible aura of horror surrounds the caster's allies; only the bravest foes will now stand before them. The caster and 2 additional targets per caster MP now cause terror to anyone without the Aspect of the Dreadknight (willpower DC 20 + caster MPx2 to resist); the caster may also exempt 2 additional targets per caster MP from the terror inducing effects of Aspect of the Dreadknight; terror is caused by the sight and sound of those enchanted (they look menacing in ways which the GM will elaborate upon; and their voices warp and boom; terrifying those who hear them); those who suffer terror roll a 1d10; with the higher the roll; the more likely they are to run away; versus the lower the roll; the more likely they are to freeze in terror bawling like babes; covering their eyes
+Duration: 1 minute per caster MP; targets struck are also terrified for 1 minute per caster MP (independent of the duration of the spell); sustained thereafter at 2WP/minute (allies must stay within the AOE to continue to gain the effects; sustained at 1WP/ally per minute)
+Range: self
+Area of Effect: allies must be within 20m of the caster to receive the benefits of the spell; for enemies; AOE is sight and sound of the caster; true terror effects are only suffered within 100m of the caster (though they still look menacing at greater distances; it is less likely enemies will wet themselves from the sight of them)
+Casting Time: 2 actions
+
+Dark Hand of Death
+Cost per Rank: 6
+Casting Number: 31
+Minimum MP req: 4
+WP Cost: 15
+Reagents: the hand of a murderer (+10 to casting roll); a black rose from the garden's of Morr (+5 to casting roll; decrease WP cost by 5; shot is instantaneous and cannot be outrun but terror effects still apply as normal); a noose from a gibbet that has hanged someone no longer than 1 month ago (double paralyzed time; target takes 1d10 damage every round they are paralyzed for)
+Damage: 50+5d10
+Effects: An avatar of death rises forth from the nether; seeking out an enemy you have decreed must join it in Morr's realm; indicate a target; the spell homes in on that target at 50 meters per round (passing over obstacles in a hovering fashion; or flying upwards if the target is in the air); strikes it for damage; and then the target rolls a willpower check (DC 35 + 2xCaster MP); if they fail; they are paralyzed for 1d5 rounds; also; targets within a 5 meter radius of the avatar as it seeks out its target must roll willpower with a DC of 25; if they fail; they are terrified (use same rules for Aspect of the Dreadknight)
+Duration: until the target is caught (terror effects last 1 min per caster MP); the spell will not dissipate if the target can somehow outrun it; and will continue to seek it out to the ends of the earth
+Range: line of sight; 200m
+Casting Time: 4 actions
+
+Rend and Tear
+Cost per Rank: 5
+Casting Number: 18
+Minimum MP req: 2
+WP Cost: 10
+Reagents: a razor sharp shard of obsidian (+5 to casting roll; double bleeding damage); an intact human skull; free of any flesh or brain (+2d10 damage per round); 
+Damage: 15 +1d10 /round
+Effects: the caster sends forth a cloud of black icy shards from the nether realm to slam into an enemy with crushing force; stripping  flesh from bone; enemies must succeed a strength check with DC 20 + 2x Caster MP or be knocked prone and pinned down by the effects of the spell (same check needed to get up; otherwise they are limited to crawling away at ¼ normal movement); armour soak protects for the first round (deflection does not) but is ruined after 1 round if it is leather based; 2 if it is metal
+Duration: maintained; 5WP per round
+Range: 15 meters + caster MPx2
+Area of Effect: 30 degree cone
+Casting Time: 2 actions
+
+Doom and Darkness
+Cost per Rank: 5
+Casting Number: 21
+Minimum MP req: 3
+WP Cost: 8
+Reagents: powdered tombstone of a wrongfully convicted person; blown forth at the enemy (+10 to casting roll); ash from a pyre used to burn a witch or heretic (+5 to casting roll; AOE expands by 5 meters per round to a maximum of 30m)
+Damage: 15 + 2d10 per round
+Effects: The spirits of the wrathful dead converge upon your opponents; bringing with them the darkness of oblivion and the terror of the grave; all targets caught within the AOE take damage per round and have their observation checks reduced by -10; they also must roll fear checks starting at willpower DC 15 and building by 5 per round; to a maximum of 50; use the same information from Aspect of the Dreadknight to resolve failures on the fear check; except that those who fail suffer an additional 1d10 damage per round; damage cannot be prevented by armor
+Duration: maintained; 4WP/round
+Range: line of sight; 60 meters
+Area of Effect: 15 meter radius
+Casting Time: 3 actions
+
+Tear Forth Soul
+Cost per Rank: 7
+Casting Number: 27
+Minimum MP req: 4
+WP Cost: 
+Reagents: a glass vial or bottle; with a stopper (treat like The Animus Imprisoned; you keep the soul); a butcher's meat-hook (+5 to casting roll; +5 to contested Willpower checks); an executioner's axe (the blade portion will suffice; +10 to casting roll; +1d10 damage per round if the target passes the Willpower check); an hourglass (if the target resists the effects of the spell; or if you choose; they are instead aged by 10 years per caster MP in a matter of seconds)
+Effects: You fling hooks of Shyish into the soul of your enemy; pulling and tugging it loose to leave their body dropped dead like a puppet with its strings cut; roll a contested willpower check against the target; including your MP and spell ranks as modifiers; if they fail; they are torn loose from their body and each round must roll again against your original contested willpower check; decreasing it by 5 per round; if after 3 rounds they have not succeeded the check to return to their body; they die (their soul is sent screaming forth into the void); if they succeed; they gain 4d10 insanity points and make a check against terror with willpower DC 40; and take 1d10 damage per round for 1d10 rounds
+Duration: until resolved
+Range: line of sight; 40 meters
+Casting Time: 6 actions
+
+The Animus Imprisoned
+Cost per Rank: 4
+Casting Number: 21
+Minimum MP req: 3
+WP Cost: 12
+Reagents: a glass bottle or vial (required); a drop of honey infused with hemlock (+10 to casting roll; +10 to contested WP check)
+Effects: make a contested willpower check against target; using your MP and spell ranks as modifiers (if the target has just died and you reach the body within 2 rounds; no contested willpower check is necessary); add + 10 to your contested willpower check if the target is sleeping or knocked out; on a success; their soul is sucked forth from their body and entrapped in the glass container until such time as it is opened; the body continues to live on like a vegetable; retaining no consciousness and only the most basic biological functions (swallowing; digestion; breathing; sleeping; etc.); if the glass bottle is opened away from the body or without the proper rituals (must be opened by a priest of Morr or an amethyst wizard who knows this spell) it is doomed to wander the world filled with hate and terror; becoming a ghost; even if the target survives this harrowing experience and returns to their body; they still gain gain 10 + 2d10 insanity points
+Duration: permanent
+Range: touch
+Casting Time: 4 actions
+
+The Caress of Laniph
+Cost per Rank: 4
+Casting Number: 15
+Minimum MP req: 2
+WP Cost: 5
+Reagents: an article of clothing from a courtesan (+5 to casting roll);an item belonging to Laniph (+20 to casting roll; targets who attempt to move away roll willpower DC 40 or become paralyzed for 1d10 rounds and continue to suffer attacks for the full duration of the paralysis)
+Damage: 1d10 per round
+Effects: Laniph was an Arabyan sorceress whose ardent passions were eclipsed only by her capriciousness. It takes little effort to call her back from the spirit world to caress a new lover of the caster's choosing; her spirit; withered and ancient will appear before the target; and attempt to seduce them; the target must roll a willpower DC 20 fear check to resist terror initially; if they fail; treat it as written under “Aspect of the Dreadknight”; so long as the target remains still and “goes along with it” (unlikely given her horrifying spectral visage); she will not harm them; however; if they move away from her or if she takes offence to anything they say; she will fly into a rage and strike petulantly (but with deadly malice) at the target; pursuing them for a short while until she is pulled back to Morr's realm. So long as they are not suffering from terror; the target may roll a persuade check to charm her into letting them go; or a strength check to “satisfy” her (giggity!); with either roll needing to hit the casting roll made for the spell. If they succeed; she leaves them immediately; although on a 1d10 they become cursed and she continues to haunt them in their dreams (1d10 every night; on a 1-3; they gain 1d10 insanity points). The mage may choose to forego the damage of this spell and instead curse the target so that they suffer all elements of the spell aside from the damage once per day (she comes to haunt them once per day at a random time); for years equal to caster MP.
+Duration: rounds equal to 2x caster's MP
+Range: line of sight; 50 meters
+Casting Time: 2 actions
+
+The Fate of Bjuna
+Cost per Rank: 4
+Casting Number: 16
+Minimum MP req: 3 
+WP Cost: 8
+Reagents: a jester's mask (+5 to casting roll); a vial of drool from an idiot (-5 penalty to willpower checks made to resist the spell; and increase duration by 2 rounds); the jawbone of a madman; and all his teeth (1 point of damage per round for every 5 insanity points the madman would have had during his life)
+Damage: 5 + 1d10 per round
+Effects: Bjuna was a mighty warrior; so the story goes; but famously never smiled - leastways not until the trickster god cursed him to laugh until his sides ruptured and split. Tellers of this tale can not agree whose fate was worse: Bjuna's or the servants who had to clean up the mess. Practitioners of Amethyst Magic can bring this horrible end upon their enemies; but it is a cruel spell and reserved for only the most heinous of foes. Make a contested willpower roll with the target; including your MP and spell ranks as modifiers. On opponent's success; the opponent only laughs for a single turn. On a fail; they must re-roll at the beginning of each turn to break free of the curse (keep the same roll you initially made to beat them); or they may take no actions other than laughing and suffer 1d10 damage per round
+Duration: rounds equal to the caster's MP + 1d10
+Range: touch
+Casting Time: 2 actions
+
+The Purple Sun of Xereus
+Cost per Rank: 9
+Casting Number: 40
+Minimum MP req: 5
+WP Cost: 25
+Reagents: an Endstone (triple radius; including the slowing radius); the soul of a necromancer (add his MP and Willpower to the distance it can be moved per turn)
+Effects: A colossal orb of purple-edged darkness materializes upon the battlefield; brought forth by a wizard with true mastery over the lore of death. Those who do not escape its touch are turned to inert and unfeeling crystal; their blasted free of their former mortal shells. The orb can be moved by the caster 1d10 meters every turn; any who fail an initiative save of 25 (not including weapon bonuses) are struck by it's aura; and die instantly. Any who are caught within double it's effective radius suffer a -5 to their movement speed and initiative checks for the next 5 rounds as their will to live is sapped away into the aethyr. Those who succeed their initiative checks are required to expend their next actions running away from the spell to avoid it's touch; initiative is them reacting in time to flee the spell's effective radius. Due to the inherent power of this spell; all wizards within a 5km radius are aware of the disturbance caused by The Purple Sun of Xereus; and non-amethyst magic cast in the area suffers a -5 penalty for the next month.
+Duration: maintained; 10WP per round.
+Range: 100m; line of sight
+Area of Effect: 5 meter radius (10 meter radius for slowing effect)
+Casting Time: 5 actions
+
+Death's Door
+Cost per Rank: 3
+Casting Number: 20
+Minimum MP req: 3
+WP Cost: 5
+Reagents: a vial of embalming fluid (add 2 rounds to the spell effect)
+Effects: you can briefly delay the inevitable; in a situation where a character is reduced to 0 HP; they may continue to take actions for another round; before Death beckons.
+Duration: 1 hour
+Range: touch
+Casting Time: 1 action
+
+Death's Messenger
+Cost per Rank: 2
+Casting Number: 11
+Minimum MP req: 1
+WP Cost: 3
+Reagents: a sharp knife (+5 to intimidate checks)
+Effects: you infuse yourself with Shyish; emanating an aura of menace; add +5 to intimidate checks for the duration of the spell
+Duration: 1 minute; sustained thereafter at 1WP/min
+Range: self
+Casting Time: 1 action
+
+Death's Release
+Cost per Rank: 3
+Casting Number: 15
+Minimum MP req: 2
+WP Cost: 5
+Reagents: a human skull (+10 to casting rolls)
+Effects: you wrap a targit spirit in bands of Shyish; dragging it to the realm of Morr where it belongs; make a competitive Willpower check against the target; adding in your MP and spell ranks; on a success; the spirit suffers -10 to movement; can no longer phase through objects; and has its damage reduced by half; 3 successes in a row will release the spirit from the mortal world
+Duration: maintained
+Range: line of sight; 20 meters
+Casting Time: 3 actions
+
+Deathsight
+Cost per Rank: 2
+Casting Number: 8
+Minimum MP req: 1
+WP Cost: 5
+Reagents: a handful of grave earth (the warmth of life and abomination of unlife alike are revealed to you; +10 to observe checks to detect other characters or creatures; unless they are obscured behind thick obstacles like walls; rocks; or hills)
+Effects: for the duration of the spell; you can see spirits that would normally otherwise be invisible; and Undead take the worse of 2 rolls to use stealth against you; also; when living bodies die; you can see their souls leaving their bodies
+Duration: 1 hour; then sustained at 5WP/hour
+Range: touch
+Casting Time: 2 actions
+
+Final Words
+Cost per Rank: 2
+Casting Number: 17
+Minimum MP req: 2
+WP Cost: 7
+Reagents: a piece of vellum (+5 to roll; if the spirit answers; their answer will be engraved upon the vellum); a set of manacles used to bind someone as they were led to their execution (you may roll a competitive willpower check to force a truthful answer; using your spell ranks and MP as additional modifiers)
+Effects: you can ask a single question of a recently dead person before they move on to the afterlife; this must be done within 1 minute of their death; they are not compelled to answer truthfully (or at all for that matter); but you may roll a persuade check against them if they are being reticent
+Range: 10 meters
+Casting Time: 1 action
+
+Grief's End
+Cost per Rank: 2
+Casting Number: 7
+Minimum MP req: 1
+WP Cost: 2
+Reagents: a petal from a black rose (remove any insanity points or derangements the character gained from their grief or terror from the passing of a loved one or comrade)
+Effects: you speak comforting words laced with Shyish to an individual bereaved by the recent passing of a loved one or comrade; lessening their pain as their understanding of the inevitability of death deepens; nullify any penalties they might be suffering due to fear or terror caused by the passing of their friend or loved one 
+Range: 1 meter; line of sight
+Casting Time: 1 action
+
+The Icy Grip of Death
+Cost per Rank: 5
+Casting Number: 22
+Minimum MP req: 3
+WP Cost: 3/target
+Reagents: a thorny rose stem (+10 to casting roll); an executioner's hood (all targets must make fear checks with a willpower DC 25 or gain 1d10 insanity points and flee if and when they break free of the spell)
+Effects: you use the icy tendrils of Shyish to bind your enemies still; all targets you choose within the AOE must make a contested willpower check against the caster; using your MP and spell ranks as modifiers; or be stunned; they can re-test at the beginning of the next round until they break free or you release the spell
+Duration: maintained; 1WP per target per round
+Range: 50 meters; line of sight required for each target
+Area of Effect: 25 meter radius
+Casting Time: 3 actions
+
+Knocks of the Departed
+Cost per Rank: 2
+Casting Number: 18
+Minimum MP req: 2
+WP Cost: 4
+Reagents: a scrap of clothing worn by the deceased in life (+5 to casting roll; and you can ask one additional question per caster MP); a prized possession of the deceased (you do not need to be at the site of their grave or body; with a living blood relative; or at the site of their death)
+Effects: you may ask one question of a specific deceased individual as long as it can be answered with a certain number of knocks (for example; how many robbers came into your home the night you were beaten to death?); yes or no questions are answered with 1 knock for yes; 2 for no; the spirit is not compelled to answer truthfully or at all; but the act of answering is neither inherently odious nor troubling for the deceased; must be cast at the site of their grave; body; or death; or in the company of a living blood relative
+Casting Time: 2 actions
+
+Deaden Limb
+Cost per Rank: 3
+Casting Number: 19
+Minimum MP req: 2
+WP Cost: 8
+Reagents: a surgeon's scalpel (+10 to casting roll); a nail of cold-wrought iron (spell can be used on spirit beings; rather than immobilizing a limb; it immobilizes the whole spirit; leaving it pinned to its location for hours equal to the caster's MP); an intact but dessicated limb belonging to one who was a barber-surgeon or doctor of some kind during life; and corresponding to the desired limb on your target (effect becomes permanent; and their limb withers to match the one in your grasp)
+Effects: you transfix a nail of Shyish through one of your opponent's limbs; releasing all the vigor of life from it; it becomes numb and cold and falls limply to their side; unable to be controlled in any way; rendering it utterly useless; treat them like they have a missing limb corresponding to  sensation and control returns to it when the spell ends
+Duration: minutes equal to caster MP
+Range: 20 meters; line of sight
+Casting Time: 4 actions
+
+Reaping Scythe
+Cost per Rank: 4
+Casting Number: 12
+Minimum MP req: 1
+WP Cost: 5
+Reagents: a miniature iron scythe (+5 damage); the fresh head of a necromancer (targets struck by the reaping scythe must make a willpower check with DC equal to 25 or be killed instantly)
+Damage: 10 + 5/caster MP
+Effects:  You conjure forth a dreadful scythe into your hands that crackles with the dark purpleish energy of Shyish; ignores armor and cover by phasing through its targets and cannot be parried or blocked; but cannot be used to parry either; damages spirits and daemons as normal which would otherwise be immaterial and thus immune to mortal weapons; use spell ranks + caster MP and Willpower to determine skill checks to hit; use physical actions as normal to determine how many attacks can be made per round. Must be used 2-handed (no weapons or shields may be used in the off-hand|).
+Duration: sustained; 2WP per minute
+Range: self
+Casting Time: 1 action
+
+Soulblight
+Cost per Rank: 6
+Casting Number: 31
+Minimum MP req: 4
+WP Cost: 10
+Reagents: a withered rose (+5 to casting roll); a handful of ash from a pyre used to burn a human (double damage); the bones of a stillborn child (subtract an additional point of strength from the targets)
+Damage: caster's willpower per round
+Effects: Harnessing the ending power of Shyish; the Wizard weakens his foes' will to survive a battle; and bleeds away at their vitality. All targets within the AOE must roll a Willpower Check with DC equal to the casting number rolled by the caster; or suffer -1 to their strength score and willpower score; and take damage equal to the caster's willpower each round for the extent of the duration
+Duration: 10 rounds; then sustained at 6WP/round
+Range: 100 meters; line of sight
+Area of Effect: 25 meter radius
+Casting Time: 5 actions
+
+Spirit Leech
+Cost per Rank: 4
+Casting Number: 19
+Minimum MP req: 2
+WP Cost: 3/round
+Reagents: a trapped soul (+20 to competitive willpower checks; and add the willpower and MP the soul had in life to your “damage” over time); a fish hook that has caught at least 1 fish (+5 to casting roll)
+Damage: special (see effects)
+Effects: The Wizard extends an ebon crackling hand towards the chosen foe; using hooks of Shyish to leeching away at its soul directly. Roll a contested willpower check at the beginning of each round for the duration; using your MP and spell ranks as modifiers; on a success; you subtract WP from them equal to the sum of your willpower and MP minus their willpower; targets that do not have WP (non-mages) use their Willpower x 10 for the purposes of this spell; and if drained to zero they pass out and cannot make additional contested checks to resist the effects of the spell; if continued to be drained to the negative of their total WP; they die and their soul is released to float over the battlefield before joining Morr's Realm.
+Duration: maintained
+Range: 30 meters; line of sight
+Casting Time: 2 actions
+
+ 
+
+Tide of Years
+Cost per Rank: 2
+Casting Number: 8
+Minimum MP req: 1
+WP Cost: 4
+Reagents: a pinch of rust mixed with grave dust (double size of an object that can be aged or cause it to lose an additional rank of quality)
+Effects: you cause a non-magical inanimate object weighing 75lbs or less to age and decay like it had just suffered the passing of many years of use; food turns to dust; and equipment loses 2 ranks of quality (master craft becomes average quality; high quality becomes low quality; and average and low quality fade to dust)
+Range: 5 meters
+Casting Time: 3 actions
+
+Tomb Robber's Curse
+Cost per Rank: 2
+Casting Number: 13
+Minimum MP req: 1
+WP Cost: 5
+Reagents: dirt from a violated grave (+5 to casting roll)
+Effects: you must cast this spell in the presence of a corpse or tomb at a gravesite. Anyone who desecrates the targeted area for a number of years thereafter equal to your MP suffers -5 to all rolls for 1 year and loses 1 fate point immediately; and a rank stinks like a rotting corpse clings to them no matter how often they bathe; giving them an additional -10 to most social rolls for the duration as well.
+Duration: see effects
+Range: touch
+Area of Effect: a single grave; body; tomb or crypt (limited to 1 deceased and their possessions)
+Casting Time: 4 actions
+
+Ward Against Abomination
+Cost per Rank: 3
+Casting Number: 14
+Minimum MP req: 2
+WP Cost: 8
+Reagents: a piece of stone or wood taken from a cemetary fence (+5 to casting rolls); a silver nail left nailed into a coffin for 1 night (enemies who approach within 1 meter of the barrier take 10 damage; they take an additional 20 damage if they pass it); salt mixed with grave dirt; poured in a circle equivalent to the radius of the ward (the ward lasts for years equal to caster MP instead of days)
+Damage: 20
+Effects: you create a ward around a person or object that repels undead and spirits from crossing it; they must pass a willpower check with DC equal to 10 x caster MP in order to bypass the aethyric barrier surrounding the target; the ward is stationary however; and does not move with the target; undead and spirits can be trapped within the ward as well; in which case they would not be able to leave it unless they passed their willpower check (and would take damage if they managed to bypass the barrier)
+Duration: 1 hour per caster MP
+Range: touch
+Area of Effect: radius of 10 meters per caster MP
+Casting Time: 5 actions
+
+Wind of Death
+Cost per Rank: 8
+Casting Number: 39
+Minimum MP req: 5
+WP Cost: 20/round
+Reagents: an endstone (all targets must make a willpower test with DC 20 every round or die instantly; this DC increases by 5 every 2 rounds); shards of crystal that were once living bodies (add 10 damage per round; stacking every round until it hits 50 per round)
+Damage: 50 per round
+Effects: you create a hurricane of Shyish spinning around you; it is a bane to life and unlife alike; and ignores armor and cover; it also does not distinguish friend from foe although the caster is safe at the eye his storm; it moves with the caster. This spell distorts magic for 10 kilometers in every direction; causing all magic cast there to suffer a -10 to its casting roll for the next week; all characters with witchsight nearby will see a holocaust of souls screaming forth from the hurricane as the caster's foes are torn apart and withered unto ruin; 
+Duration: maintained at 20/round
+Range: self
+Area of Effect: 50 meter radius
+Casting Time: 5 actions
+
+Youth's Bane
+Cost per Rank: 6
+Casting Number: 33
+Minimum MP req: 5
+WP Cost: 15
+Reagents: an hourglass (+10 to casting roll)
+Effects: you surround a dire enemy in a violent storm of Shyish; causing them to age decades in seconds; each round; they permanently lose 1 strength and 1 dexterity; and age approximately 20 years; this horrific fate is reserved for traitors and rogue magisters of the worst kind; and for necromancers especially to punish them for seeking to evade Death
+Duration: maintained
+Range: line of sight; 30 meters
+Casting Time: 4 actions
+
+Blighted Ground
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 1
+WP Cost: 
+Reagents: 
+Damage: 1d10
+Effects: AOE simple damage spell
+Duration: 
+Range:
+Area of Effect:
+Casting Time: 1 action
+
+Lore of Fire
+
+Flamewalk
+Cost per Rank: 5
+Casting Number: 25
+Minimum MP req: 4
+WP Cost: 10
+Reagents: shoes belonging to a coal-walker (+5 to casting roll);
+Effects: briefly transmuting his essence into pure fire; the pyromancer leaps into a fire and travels through the world as a thread of Aqshy before reforming at another blaze of sufficient proportions; by leaping into a blaze large enough to encompass the pyromancer (curled up into a ball if necessary); he may emerge at any other blaze within the range; however; if he cannot see the other blaze; he rolls 1d10 for insanity points as he is forced to traverse through the Aethyr looking for the nearest glow of Aqshy; casting this spell without having a blaze nearby to teleport to merely results in the caster coming back through the fire he left through; although the time spent looking around similarly means he must roll 1d10 for insanity points; casters check for ignite as normal when they enter and exit a blaze; unless they are already shielded against it (such as with Aqshy's Aegis or Shield of Aqshy)
+Range: line of sight; max 1km
+Casting Time: 1 action
+
+
+Rebirth of the Phoenix
+Cost per Rank: 9
+Casting Number: 45
+Minimum MP req: 5
+WP Cost: 100
+Reagents: a fire ruby (+25 to casting roll; any fire spell of MP4 or below can be chosen to be cast upon rebirth); a phoenix's tail feather (+10 to casting roll; you are reborn with all your stats at full and gain no insanity)
+Damage: upon death; use Fiery Blast; upon rebirth; use Firestorm; lasting for 1 round
+Effects: the mage encases his soul and essence within an carefully constructed shell of Aqshy; allowing him to be reborn 1 day later if he is killed him combat; once cast; the spell cannot be cast again until 1 year later; upon death; the pyromancer explodes outwards in a fiery torrent; and upon rebirth he immolates all around him in a mighty hurricane of fire; death must be caused by damage; rather than spell effects (such as spells which instantly kill someone or turn them to stone; crystal; or gold; or remove their soul); the magister's gear is left undamaged; but does not go with him; upon rebirth; he appears naked and covered in ash on the spot that he died; and rolls 1d10; on a 1-5 death takes its toll upon his body and mind; causing a penalty of -1 to all attributes (permanent; but they can be bought back) and the user gains 2d10 insanity; on a 6-10; he is reborn with only 2 attribute points lost and may choose which ones; and only gains 1d10 insanity
+Duration: 1 month or until triggered
+Range: self
+Area of Effect: see damage
+Casting Time: 3 hours
+
+Aqshy's Aegis
+Cost per Rank: 3
+Casting Number: 18
+Minimum MP req: 2
+WP Cost: 5 + 1/additional target
+Reagents: a handful of saltpetre (+5 to casting roll; targets not protected by Aqshy's Aegis that approach within a 5m radius of the caster or one who shares his shield take +5 damage per round and rolls twice for ignite; taking the worse of two rolls); a crucible of molten lead (magic effects including damage from other spells seeking to target or affect those protected by Aqshy's Aegis must roll higher than the casting roll of the Aegis or all effects are prevented); a small jug containing an even mix of high strength spirits and refined oil; topped with a pinch of phosphorus (+5 to casting roll; +5 to damage per round; all targets that receive damage auto-ignite); a miniature shield made of gold (+10 to casting roll; +10 to counterspell rolls made while the caster is sustaining Aqshy's Aegis)
+Damage: 5 damage per round
+Effects: you cloak yourself in the fire of Aqshy; absorbing and nullifying any fire that touches you; the caster and any who link hands or otherwise maintain contact with the caster or one who is sharing the Aegis with him are enveloped in a bright fiery shield that prevents any damage from fire harming them; and immolates any foolish enough to approach them
+Duration: sustained; 1WP per target (including caster) per round
+Range: self; touch (touch must be maintained throughout the duration)
+Area of Effect: 5m radius from caster and those sharing the Aegis
+Casting Time: 3 actions
+
+Boiling Blood
+Cost per Rank: 5
+Casting Number: 26
+Minimum MP req: 3
+WP Cost: 10
+Reagents: an Ogre's spleen (double damage; +15 to contested willpower rolls)
+Damage: 40/round
+Effects: you force a flood of Aqshy through your target's veins; heating their blood to a rolling boil within seconds and causing them to suffer pain of the most excruciating kind and explode in a steaming torrent of viscera; make a contested willpower check with the target; using your MP and spell ranks as modifiers; on a fail the spell deals only 20 damage; and then fizzes out; on a success the spell acts as normal; and the target (assuming they survive the first round) must pass a pain check with willpower DC 50 to take any further actions as they are boiled form the inside out; if they are killed by this spell or while under it's effect; they explode; their pressurized boiling remains dealing 1d10 damage to all targets within a 5m radius
+Duration: maintained
+Range: touch
+Casting Time: 3 actions
+
+Breathe Fire
+Cost per Rank: 3
+Casting Number: 12
+Minimum MP req: 1
+WP Cost: 2/target
+Reagents: a mouthful of high-strength spirits (double range; gain 1 additional target for free or double damage on 1 target); a dragon's scale (triple damage; range; and gain an additional 5 free targets or increase damage on one target proportionately)
+Damage: 10/target
+Effects: you breathe forth a gout of clinging magical flame on to your opponents like the dragons of yore; incinerating them; all designated targets auto-ignite; flames travel around most cover and ignore shields and armor; finding their way through cracks; 1 target per caster MP; and damage can be concentrated to a proportion desired by the caster
+Range: 5 meters per caster MP
+Area of Effect: a 30 degree cone in front of the caster; with the flame seeking out and consuming one target in particular per caster MP; although all targets in the AOE must still make ignite checks even if they were not specifically targeted
+Casting Time: 1 action per target (excluding free targets gained through the use of reagents)
+
+The Burning Head
+Cost per Rank: 7
+Casting Number: 41
+Minimum MP req: 5
+WP Cost: 40
+Reagents: a solid gold cannonball with the face of a screaming skull carved on the front; written all over with runes of fire and destruction in the arcane tongue of Aqshy (double damage; triple AOE damage); a fire ruby (all within double the AOE auto ignite; all AOE's gain +10m; +30 to casting roll)
+Damage: 200 (line) 50 (AOE)
+Effects: the caster creates a spectral flaming skull and fires it forth into the battlefield like a mighty cannonball; the scream it shrieks as it homes forth towards its target burns the very souls of all who hear it; causing all within triple the AOE to gain 1d10 insanity points and make a fear check with DC30 or flee the battlefield; it smashes through targets before it much as a cannonball would do; except that it is unaffected by inertia and even those near its path are blasted backwards by the fire of its wake; taking falling damage as determined by the GM; the cannonball seeks its target and deals an additional 100 damage (totalling to 300 damage) with a 50m AOE (dealing 100 damage) on impact; all within the AOE of the detonation or the wake must make checks for ignite
+Range: line of sight; up to 1km
+Area of Effect: 10 meter radius around the arc of the ball
+Casting Time: 7 actions
+
+Burning Vengeance
+Cost per Rank: 4
+Casting Number: 26
+Minimum MP req: 3
+WP Cost: 10
+Reagents: 3 drops of the target`s blood (+10 to casting roll; +5 to competitive willpower checks)
+Effects: you inflame the target`s passion for vengeance against another; regardless of how small the slight might seem; make a competitive willpower check using your MP and spell ranks as additional modifiers; on a fail; the spell lasts only an hour and the target may continue to make competitive willpower checks to resist carrying through with their vengeance; on a success; the target engages on a vendetta against anyone of your choice provided they know who they are (at least by name; title; or some other means of identification) that can only be solved by the victim`s brutal death; preferably by fire; once per month until the spell is resolved; the target may make another competitive willpower check to throw off the effects of the spell; the source of the target's vendetta cannot use social rolls to intimidate; persuade; or bluff their way out of it (the man with the burning vengeance curse on him is not interested in hearing pleas; excuses; and is considered fearless against those who would bar him from carrying out his vendetta)
+Duration: a year and a day; or until resolved by the death of the victim
+Range: touch
+Casting Time: 4 actions
+
+Cascading Fire-Cloak
+Cost per Rank: 3
+Casting Number: 18
+Minimum MP req: 2
+WP Cost: 3
+Reagents: a large piece from a fine scarlet cloak (+5 to casting roll)
+Damage: 15 per round
+Effects: A shield of flame appears appears around the wizard; scorching nearby foes (stacks with other shielding spells); all targets that come into contact with the shield of flame must check for ignite twice; taking the worse of two rolls; can be ``detonated`` after 3 rounds to deal 30 damage in triple the radius; and cause all targets hit by it to check for ignite
+Duration: sustained at 1WP per round
+Range: self
+Area of Effect: 5m radius
+Casting Time: 1 action
+
+Cauterize
+Cost per Rank: 2
+Casting Number: 10
+Minimum MP req: 1
+WP Cost: 2
+Reagents: a metal blade (can be enchanted for 1d10 hours + caster MP; and will activate to cauterize the first bleeding wound the bearer has)
+Effects: you lay your hands on a wound; instantly searing it shut; although it does not heal any HP; bleeding is stopped immediately from that wound (internal and external as well)
+Range: touch
+Casting Time: 1 action
+
+Choleric
+Cost per Rank: 3
+Casting Number: 9 
+Minimum MP req: 1
+WP Cost: 6
+Reagents: a thimbleful of bile (+5 to casting roll)
+Effects: you inflame another person's ill humors; causing them to become irrationally angry at a person you designate; both must be within line of sight to each other; make a contested willpower check against the target; including your MP and spell ranks as modifiers; for every degree of 10 that you beat your target; they suffer a -10 to will checks to resist the effects of the spell over time; if you succeed; they begin immediately acting aggressively and angry towards the designated character and must make a willpower check with DC equal to 20 to resist attacking the designated character for the duration of the spell
+Duration: rounds equal to the caster MP
+Range: 10m; line of sight
+Casting Time: 2 actions
+
+Conflagration of Doom
+Cost per Rank: 8
+Casting Number: 45
+Minimum MP req: 5
+WP Cost: 50
+Reagents: a philtre of Dragon Oil (oil made by rendering the fat of a dragon; multiply damage and radius by 5; add +25 to casting roll); a fire ruby (+20 to casting roll; spell effects stack at double the normal rate)
+Damage: 100 per round; stacking by 100 each round (200 the second round; 300 the third round)
+Effects: the pyromancer gathers unto himself a raging infernal hurricane of Aqshy; which spirals out around him gaining strength and power as it utterly destroys and incinerates all around it; fire from the Conflagration of Doom deals 5 damage per round to the caster; directly to his soul; this damage is incredibly painful and the caster must make a pain check with DC20 increasing by 5 per round to continue casting this spell; this damage cannot be avoided or prevented; and takes 5x the normal amount of time to heal; however; it is capable of melting even gromril and boils metal; renders air to plasma; and utterly destroys everything around it if allowed to build sufficiently (GM's discretion); the caster is protected from the mundane effects of the fire around him and does not take additional damage from this; but any equipment he is carrying or wearing is destroyed by the spell. All targets within triple the AOE of the spell must check for immolation. The fire is infused with the destructive essence of Aqshy and is capable of harming spirits; daemons; and even dragons. Due to the inherently dangerous and destructive nature of this spell; it is taught to only the most powerful and strong-minded and hale-bodied battle mages of the Bright College; and it disrupts magic all around it in a 10km radius; causing all magisters attempting to cast there to suffer -10 to their casting rolls for the next month. Because of the highly disruptive and destructive effect of this spell on the winds of magic; spells attempting to target or affect the pyromancer casting Conflagration of Doom suffer a stacking -10 penalty to their casting roll per round (-20 the second round; -30 the third round; etc)
+Duration: maintained at 25/round
+Range: self
+Area of Effect: 100m radius around the caster; stacking by 100m per turn (200m radius the next round; 300 the next; etc)
+Casting Time: 10 actions
+
+Consuming Wrath
+Cost per Rank: 4
+Casting Number: 23
+Minimum MP req: 3
+WP Cost: 6
+Reagents: an Orc's spleen (+10 to casting roll; add base strength again to melee weapon damage); saliva of a rabid dog (+5 to casting roll; +1 extra action; target gains High Pain Threshold at the max; but DC to resist attacking the nearest target increases by +10); a charm blessed by a servant of Verena or Myrmidia (targets do not gain Berserk; and may choose to attack only enemies)
+Damage: 5 per round
+Effects: you fan the flames of rage within a man's soul; charging their muscles with the fury of Aqshy and filling their minds with burning hatred but this hatred also burns them visibly from the outside in (their skin smokes and small flames and sparks shoot out from their form); highly flammable materials within 1m of the target have a chance of igniting (straw; paper; alcohol; oil; etc.); but the target gains +1 strength (including the temporary HP gained from it); 2 free actions; and Fearless; but also gain Berserk and Bloodlust and must attack the nearest living target; friend or foe; for the duration of the spell; Willpower DC 25 to resist
+Duration: rounds equal to the caster's MP; sustained after that at 4WP/round
+Range: 10m; line of sight
+Casting Time: 2 actions
+
+Crown of Fire
+Cost per Rank: 4
+Casting Number: 17 
+Minimum MP req: 2
+WP Cost: 7
+Reagents: a crown of gold (+15 to will checks made against attacking the caster; +5 to intimidate and command checks); the ash of a witch (+5 to casting rolls made for Lore of Fire spells while this spell is active); 
+Effects: the caster conjures a flaming; majestic crown over his head that inspires both awe and dread in those around him; enemies wishing to engage him in melee must make a willpower check with DC20 or take another action; checks made to command or intimidate others while wearing the Crown of Fire gain +5; in addition; the crown gives off the same light as a large torch; and can ignite things just like a torch would;
+Duration: minutes equal to caster MP; then maintained at 4WP/min
+Range: self
+Casting Time: 3 actions
+
+Wall of Fire
+Cost per Rank: 5
+Casting Number: 18
+Minimum MP req: 2
+WP Cost: 8
+Reagents: the last remaining shred of a tapestry consumed by fire (+5 to casting rolls); a line of high quality refined oil/gunpowder/spirits (duration is measured in hours rather than minutes/double damage; no initiative check allowed/+10 to casting roll and take the worse of two ignite checks; respectively; mixing them together will grant the bonuses of each)
+Damage: 25/round
+Effects: all who contact the fire must make a check for ignite; and suffer full damage unless they make an initiative check with DC25 to avoid the flame should it spring up underneath them; the flame is magical and simply running through it quickly (such as passing a flame through a candle quickly) will not mitigate the damage; the damage also ignores armor
+Duration: minutes equal to the caster's MP; then maintained at 3WP/round
+Range: line of sight; 50m
+Area of Effect: a line curved or bent as the caster likes; with total dimensions of 1 meter wide; 10m long per caster MP; and 3 meters high; contracting the line can be used to increase the height; width; or length accordingly should the caster desire; however; another casting roll is required should the caster wish to do this after spell has already been cast
+Casting Time: 3 actions
+
+Fiery Blast
+Cost per Rank: 4
+Casting Number: 22
+Minimum MP req: 3
+WP Cost: 11
+Reagents: a large ceramic egg; filled with gunpowder (+2d10 damage; increase AOE radius by 10m); a bottle of high quality spirits and flakes of gold equal in value to half a gold piece (+5 to casting roll; all targets within the AOE auto-ignite)
+Damage: 25+2d10
+Effects: Building a ball of Aqshy up within him; the pyromancer releases it exploding outwards in a sphere of fiery destruction; all targets within the AOE must check for ignite; and take full damage; they must also make an acrobatics or strength check with DC20 or be knocked back; causing them to become prone and take an additional 1d10 damage
+Range: self
+Area of Effect: 15m radius
+Casting Time: 2 actions
+
+Fan the Flames
+Cost per Rank: 2
+Casting Number: 9
+Minimum MP req: 1
+WP Cost: 2/round
+Reagents: the nozzle from a set of bellows (+5 to casting roll); the trachea of an ox (decrease WP cost to 1/round; change spell from maintained to sustained); a fistful of phosphorus (flames continue to build as if fuel source was not diminishing); a fistful of sulphur (flames build at double the normal rate)
+Effects: the caster blows a torrent of Aqshy upon a flame; fanning it to its maximum potential without snuffing it out; at its simplest; raging bonfires can be started from dying coals and a candle can light up a mansion; however; many pyromancers use this to ensure that their foes burn up with satisfying alacrity. Every round; the rate at which a fire is burning exponentially increases (doubling); double ignite effects every round; however; fuel is consumed accordingly quickly; and unless the supply of fuel is kept full it will be consumed very quickly it the mage continues to fan the flames with magic
+Duration: maintained; 2WP/round
+Range: 10m from the edge of the flames; line of sight
+Casting Time: 1 action
+
+Firebolt: 
+Cost per Rank: 2
+Casting Number: 12
+Minimum MP req: 1
+WP Cost: 3
+Reagents: a pinch of sulphur (+5 to casting roll)
+Damage: 5 + 1d10
+Effects: the caster lashes forth with a fistful of Aqshy; smashing his intended foe with a bolt of flame that explodes on impact; all targets within the AOE take 1d10 damage and check for ignite
+Range: 100m
+Area of Effect: 2.5 meters
+Casting Time: 1 action
+
+Fireball:
+Cost per Rank: 4
+Casting Number: 18
+Minimum MP req: 3
+WP Cost: 7
+Reagents: A hollow egg painted black with ash and tar; filled with a mix of sulfur; ground garnet dust; and a filing from a forge hammer; +10 to casting roll; + 1d10 damage.
+Damage: 20 + 2d10
+Effects: the pyromancer gathers a ball of destructive Aqshy and hurls it forth at his opponents; bathing them in an explosion of fire; those in the AOE check for Ignite and all targets within the AOE take 2d10 damage; all targets within double effective AOE take 1d10 damage.
+Range: 100 meters; line of sight
+Area of Effect: 5 meters
+Casting Time: 2 actions
+
+Fires of U'Zhul
+Cost per Rank: 4
+Casting Number: 21
+Minimum MP req: 3
+WP Cost: 3/target
+Reagents: a knife blade; heated to red hot (+5 to casting roll); a crucible filled with molten gold with a minimum value of 10 gold pieces (+10 to casting roll; duration becomes hours rather than minutes)
+Effects: the caster imbues the weapons of his allies with the fiery kiss of Aqshy; they glow hot and are wreathed in flame as they are about to strike their opponents; +3 base damage and +2 base penetration to 1 weapon per target held forth or 1d10 pieces of ammunition (arrows; crossbow bolts; bullets; pistol shot) also held forth; all targets struck by weapons enchanted with the Fires of U'Zhul must check for Ingite; also; daemons and spirits struck by these weapons are affected as if they were mortal; and catch fire as if they were doused in oil
+Duration: minutes equal to caster MP
+Range: 20m; line of sight between caster and the weapons; and the caster must be visible to the bearers of the weapons
+Area of Effect: 25m radius
+Casting Time: 4 actions
+
+Flaming Sword of Rhuin
+Cost per Rank: 4
+Casting Number: 13
+Minimum MP req: 1
+WP Cost: 5
+Reagents: a sword blank made of high quality steel (+5 to casting roll; +2 base damage and penetration; duration is 1 hour before the sword must be sustained)
+Damage: 10 + 5/caster MP
+Effects: the pyromancer forces together a length of Aqshy; sharpened to a killing point and shaped into a blade; it has a penetration of 8 and causes targets to check for ignite; with their check DC stacking by 1 for every additional time they are hit; the pyromancer uses his MP; Willpower and spell ranks as his skill base for using the sword; but for all other intents and purposes it is treated like a longsword; it can harm daemons and spirits as normal; and they ignite automatically upon being struck; the sword also glows like a torch and casts similar illumination as well as being capable of igniting things similar to how a torch would
+Duration: sustained at 2WP/round
+Range: self
+Casting Time: 1 action
+
+Firestorm
+Cost per Rank: 7
+Casting Number: 33
+Minimum MP req: 4
+WP Cost: 15
+Reagents: roots of an oak burned in a forest fire (fire must be of mundane origins; +10 to casting roll); a firebug's hands (+5 to casting roll; +10 to AOE radius; Firestorm can move an additional 5m/round)
+Damage: 50/round
+Effects: A column of roiling flame bursts from the battlefield; the roar of its creation almost drowning out the screams of its victims. All who are within the AOE auto-ignite; and all within 10m of the exterior of the AOE must check for ignition; the firestorm is guided by the caster; and moves 15m/round
+Duration: maintained
+Range: 100m; line of sight
+Area of Effect: 25m radius
+Casting Time: 5 actions
+
+Flashcook
+Cost per Rank: 2
+Casting Number: 7
+Minimum MP req: 1
+WP Cost: 1
+Reagents: a jar of lard or bacon grease (cooked food will last for 1 month and provide 3x the nutrition it normally would; allowing them to function as trail rations multiplied by 3); a high quality toasting fork (extend range to 10m; can be used to inflict a damage 3 shot on a target regardless of armor; with the location rolled for on a 1d10; the higher the better)
+Effects: you cause 1 serving of food to instantly become fully cooked; or bring 1 litre of water to a rolling boil; spoiled or tainted food cooked this way becomes safe to eat (the ill effects thereof are cooked off) though they will not taste particularly pleasant; food cooked this way will improve their quality by 1 degree; becoming magically “fingerlickin' good”; however; the caster must also roll 1d10 and on a 1-5 the food becomes extremely spicy (which the caster doesn't mind but others might; and for which others may suffer … gastrointestinal distress)
+Range: touch
+Casting Time: 2 actions
+
+Fulminating Flame Cage
+Cost per Rank: 5
+Casting Number: 24
+Minimum MP req: 3
+WP Cost: 12
+Reagents: a branding iron used by a torturer (+5 to casting roll); a high quality bear trap; heated red hot (targets auto-ignite and suffer an additional 1d10 damage per round)
+Damage: 5 + 1d10/round
+Effects: Searing rods of magical flame shoot from the Magister's outstretched hands; trammelling his chosen foe in a fiery prison; the target encased in this prison loses half their movement and takes 20 damage if they attempt to move at all; and must succeed a pain check with willpower DC25 to attempt movement at all; they also check for ignite ever round; with the ignite DC stacking by 1 per round; all others within the AOE (excluding the intended target) suffer 1d10 damage per round and must check for ignite
+Duration: maintained; 6WP/round
+Range: 30m; line of sight
+Area of Effect: 5m radius around target
+Casting Time: 4 actions
+
+Hearts of Fire
+Cost per Rank: 3
+Casting Number: 13 
+Minimum MP req: 1
+WP Cost: 3/target
+Reagents: a vial filled with a mixture of blood and oil (+5 to casting roll)
+Effects: you unlock the fires of courage within the hearts of your allies; helping them to resist the terrors of the battlefield; +10 to willpower checks vs Fear and Terror checks; and reduce insanity points gained for the duration by half
+Duration: minutes equal to the caster's MP
+Range: 10m; line of sight
+Area of Effect: 10m radius
+Casting Time: 2 actions
+
+Inextinguishable Flame
+Cost per Rank: 2
+Casting Number: 11
+Minimum MP req: 1
+WP Cost: 3
+Reagents: a lump of petrified wood (+5 to casting roll; double the size of the flame)
+Effects: you cause any single fire up to the size of a campfire to become inextinguishable through mundane means; such as earth; wind; or water. Magical attempts to extinguish the flame must exceed your casting roll. Kicking apart a campfire or dividing the fuel that is being burned will merely allow multiple smaller fires to be formed; which will all be similarly inextinguishable. The fire will continue burning for the duration without consuming fuel; only consuming it when the duration ends. Fuel added to it during the spell will burn as normal; adding to the flames until it is consumed; however; it will not similarly become inextinguishable; only the original fire will be.
+Duration: days equal to the caster's MP
+Range: touch
+Casting Time: 1 action
+
+Pierceing Bolts of Burning
+Cost per Rank: 5
+Casting Number: 24
+Minimum MP req: 3
+WP Cost: 10
+Reagents: a box of fireworks (+5 to casting roll; double damage; double range); 5 red-hot high quality arrow heads (+5 to casting number; +5 damage; +5 penetration)
+Damage: 10 + 1d10
+Effects: Focusing his mystical might; the Wizard strikes his foe with a furious hail of incandescent missiles. All targets within the AOE roll 1d10; all rolls below 10 suffer a hit; and all 1's suffer 2 hits; roll location for the hit randomly. Hits have a penetration score of 10. All targets hit must check for ignite.
+Range: 50m
+Area of Effect: 45 degree arc
+Casting Time: 4 actions
+
+Ruin by Fire
+Cost per Rank: 2
+Casting Number: 9 
+Minimum MP req: 1
+WP Cost: 2
+Reagents: the head of a blacksmith's hammer (items made of iron or anything with a lower melting point will be reduced to oblong ingots); a lump of obsidian; polished smooth and shiny (targets made of stone will be crumbled to dust)
+Effects: you cause a single distinct inanimate object weighing less than 100lbs per caster MP to be destroyed as if exposed to a prolonged fire; a sheaf of papers would burnt to ash; a wooden chair would be reduced to charcoal; a sword would have its leather bindings ruined and burnt away and the blade would be blackened but fully intact; the remains of objects ruined by fire are left only slightly warm to the touch
+Range: touch
+Casting Time: 2 actions
+
+Shield of Aqshy
+Cost per Rank: 4
+Casting Number: 17
+Minimum MP req: 2
+WP Cost: 11
+Reagents: a master crafted kite shield (gain its soak and deflection on all locations); an iron amulet (+5 to casting roll)
+Damage: 
+Effects: you cloak yourself in a thick shield of Aqshy; granting yourself 6 soak on all locations and 3 deflection; in addition; you are immune to damage from fire for the duration of the spell; also; the weapons of all those who strike at you in melee combat heat up red hot (if wooden handled; they are turned to glowing hot coals before crumbling apart); and they must make a pain threshold check to retain grip of their weapons with willpower DC20; and regardless of if they do or not they take a damage 3 hit to their hand (6 damage if using both hands to wield a weapon) and must continue making DC15 checks to handle anything with their hands until they are healed; this effect does not work on magical weapons
+Duration: rounds equal to caster MP; then maintained at 5WP/round
+Range: self
+Casting Time: 2 actions
+
+Lore of Beasts
+
+The Beast Broken:
+Cost per Rank: 2
+Casting Number: 9
+Minimum MP req: 1
+WP Cost: 2
+Reagents: a bridle (+5 to casting roll; target animal suffers -5 to any Willpower checks it makes for the rest of the day)
+Effects: you break the spirit of a wild animal (note; this spell cannot be used on any creatures with rudimentary intelligence; such as goblins; skaven; beastmen; etc.); make a competitive Willpower check against the target animal; on a success; it behaves in a docile manner towards humans; elves; halflings; and dwarves but will still be skittish (and rightly so!) around creatures of chaos; greenskins; any natural predators (for example; a horse will be skittish around a bear); and any monstrous creatures (ogres; giants; trolls); animals that have had their spirit broken may be trained as normal without any penalties that would normally be associated with trying to train them (such as the natural stubborn and violent instincts of a wild boar); animals that are normally domesticable (such as horses; dogs; some species of birds of prey) are easier to train; with trainers gaining a +5 to their rolls
+Duration: permanent
+Range: 10m; line of sight
+Casting Time: 2 actions
+
+The Beast Made Well
+Cost per Rank: 2
+Casting Number: 11 
+Minimum MP req: 1
+WP Cost: 4
+Reagents: a bit of salve (+5 to casting roll; double total HP healed)
+Effects: heal any natural animal (monsters and familiars are unaffected by this spell) for HP equal to your MPx2 + 1d10
+Range: touch
+Casting Time: 3 actions
+
+The Beast Unleashed
+Cost per Rank: 4
+Casting Number: 16
+Minimum MP req: 2
+WP Cost: 6
+Reagents: a wolf's heart (+10 to casting roll; double duration); an eagle's eye (+5 to casting roll; characters do not gain Berserk; if used in conjunction with a bear's lungs; ignore berserk rule); a bear's lungs (increase duration by 1d10 rounds; characters automatically gain berserk; but add double their strength base to attacks and strength checks; and gain an additional attack per round; they also compulsively howl in a bestial manner for the duration)
+Effects: you unleash the primal savagery of your allies; any characters within the effective radius gain High Pain Threshold at the max level; and Fearless; and add their full strength bonus on to melee attacks for the duration; each also rolls 1d10; and on 5 or less they gain Berserk as well for the duration; characters may resist this spell by rolling a Willpower check; so long as it exceeds your casting roll; allies will not Berserk against you; as they instinctively know you are the leader of their pack (but they may still Berserk against each other)
+Duration: rounds equal to your MP
+Area of Effect: 10m radius around caster
+Casting Time: 2 actions
+
+The Boar's Hide
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Calm the Wild Beast
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Claws of Fury
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Cowering Beasts
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Crow's Feast
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Cruelty's Deserts
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Form of the Puissant Steed
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Form of the Raging Bear
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Form of the Ravening Wolf
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Form of the Soaring Raven
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Feral Reversion
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: The wizard summons the beast that lies within his foes; reverting them to feral beasts; who recognize neither friend nor foe.
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Fury of the Wilds
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: all animals within a very large radius come running to assist the caster in battle; using whatever natural fighting instincts and cunning they have to bring swift and gruesome death to the caster's foes
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Irresistible Musk
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: The wizard conjures alluring pheromones targeted at a gender of a particular species gaining bonus to social rolls against them.
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Leatherbane
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Master's Voice
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Pann's Impenetrable Pelt
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: Calling upon the beast-spirits of the wild; the wizard sheaths his vulnerable flesh in unyielding fur and hide.
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Repugnant Transformation
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+The Amber Spear
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: Sounding a gnarled horn; the Wizard summons a glowing amber spear. seizing hard upon the spear's trnslucent shaft; he hurls it at the foe with uncanny accuracy
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+The Bear's Anger
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: target gains berserk; but also gains +1 to strength; an additional attack; and +20 temporary HP (strength is not used to recalculate HP)
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+The Curse of Anraheir
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: At the Wizard's command; nebulous nature spirits assail the foe; clawing at them with hands not nearly as insubstantial as they appear. (penalty to accuracy and movement is dangerous)
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+The Flock of Doom
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: With a mighty bellow the wizard invokes Corvus the Crow Lord; summoning his servants to peck at the foe's eyes
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+The Ox Stands
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+The Savage Beast of Horrors
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: The beast within is a formidable thing if unleashed to its full potential.(+str +attacks multiple targits)
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+The Wolve's Nose
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: gain a special observation power equivalent to a canine sense of smell; huge tracking bonuses
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+The Deer's Speed
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: character can run at a large bonus to movement; and can leap fairly long distances
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+The Wildcat's Reflexes
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: gain an additional physical action; bonuses to dodging; initiative
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Thieving Magpie
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: cause a bird to attempt to steal something small and easy to carry for it from a target; it will wait for the best opportunity within the next 24 hours; following the target
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+The Beast that Follows
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: enchant a beast to follow a target; maintaining a line of sight whenever possible but also attempting to remain hidden from view; you may scry through the beast at any point; seeing what it sees; alternatively; the beast follows you but rather than spying on you it merely scouts the area nearby and will fixate on the first unknown human it sees
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Transformation of Kadon
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects:  Kadon was a master of forms; able to shift his shape to that of any monster. One day he found he could not change back. (shift into a feral Manticore; Black Hydra or Horned Dragon; or on a greater roll a mountain chimera or a great fire dragon.
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Skinwalk
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Effects: you enter a state of meditation; for the duration of the spell; you are immobile and cannot sense anything around you normally; and cannot cast other spells (although you may return to your body anytime by cancelling the spell); roll an intelligence check to sense all nearby animals (including humans and humanoid creatures like elves; dwarves; orcs; goblins; etc.); and then a contested willpower check to inhabit that creature for hours equal to your MP; inhabiting humanoid creatures with rudimentary intelligence (such as orcs; goblins; trolls; ogres; giants; other humans; elves; dwarves; etc.) is possible; but their contested willpower check allows an additional 1d10 to be rolled for them; and a successful possession will still cause you to roll 1d10 for insanity points each time; inhabiting chaos creatures will additionally cause the caster to roll 1d10 for mutation points as the essence of chaos rubs off on their soul; note: inhabiting the bodies of other humans is considered a serious taboo among wizards of the Amber College; and can result in expulsion and summary execution if discovered; inhabiting humanoid creatures with rudimentary intelligence is considered a disgusting and in many cases illegal (similar to acts of bestiality); but is more permisable
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Eyes of the Wilds
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: scry in a large AOE; using the vision of any beasts in the nearby area as the vision point
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Hunting Spear of Venor
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: spear-shaped magic missile; ignores armour; seeks target; can be cast without direct line of sight so long as the intended target is within eyesight of an animal somewhere (this is done by using a scrying spell before hand)
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+The Wolf Hunts
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: all animals nearby in a large AOE join your army or party and attack enemies with unnatural ferocity and utter fearlessness
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+The Talking Beast
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Spectral Wolves
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: summon ghost wolves equal to caster MP; visible only under Morrslieb's glow; possibly gain insanity points for it; very powerful spell; wolves are immune to most damage and bypass armor and do a shit ton of damage; move very quickly too
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Curse of the Prey
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: a pot of honey!
+Damage:
+Effects: curse a target to look; sound like; and smell like the prey of choice for all predatory creatures that sense him; except that he is particularly weak looking and delicious (tiger stalking a fat kid through a jungle … *tiger picks up its pace* Kid: “oh no I spilled honey all over myself” *tiger starts sprinting*)
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Wings of the Falcon
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+The Winter's Long Slumber
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: 
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
+
+Wyssan's Wildform
+Cost per Rank:
+Casting Number: 
+Minimum MP req: 
+WP Cost: 
+Reagents: 
+Damage:
+Effects: The Wizard unleashes the beast within; shaping its fury to transform his allies to beastial form (+ str and toughness)
+Duration: 
+Range:
+Area of Effect:
+Casting Time:
